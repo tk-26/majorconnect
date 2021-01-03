@@ -1,56 +1,50 @@
 import requests
 from bs4 import BeautifulSoup
-import json
 
-from flask import Flask, jsonify
-from flask_cors import CORS
-
-app = Flask(__name__)
-CORS(app)
-
-URL = 'https://www.gobankingrates.com/money/jobs/best-jobs-america/'
+URL = 'https://www.vault.com/best-jobs-and-career-guidance'
 page = requests.get(URL)
-
 soup = BeautifulSoup(page.content, 'html.parser')
 
-#Job titles
+#Professions
+professions = []
+ulProfessions = soup.find_all(['ul','li'],class_='maxWide ArticleLinks')
+parsed_job = [job.text.strip() for job in ulProfessions]
+string_of_professions = ''.join(str(x) for x in parsed_job)
 
-job_titles = soup.find_all(['div','h2'],class_='listicle--slide--title')
-parsed_job = [job.text.strip() for job in job_titles]
-job_titles = [] #List of job titles
-for element in parsed_job:
-	detach_job_and_ranking = element.split('. ',1)
-	final_job = detach_job_and_ranking[1]
-	job_titles.append(final_job)
 
-#Salaries
+for job in string_of_professions.split('\n'):
+	professions.append(job)
 
-salary_start = soup.find_all('b')
-salaries = [] #List of all salaries
-for salary in salary_start:
-	final_salary = salary.next_sibling
-	salaries.append(final_salary)
+#Gets links to the individual pages
+link_list = []
+for item in ulProfessions:
+	list_of_links = item.find_all('a',text=True)
+	for link in list_of_links:
+		stripped_link = link.get('href')
+		link_list.append('https://www.vault.com/' + stripped_link)
 
-#Job descriptions
-
+#Individual profession info
+salaries = []
 job_descriptions = []
-table = soup.find_all('div',class_='listicle--slide--content')
-for x in table:
-	job_descriptions.append(x.find('p').text)
+minimum_edu_levels = []
+for link in link_list[:100]:
+	individual_page = requests.get(link)
+	soup_ip = BeautifulSoup(individual_page.content, 'html.parser')
+	#Salary info
+	salary_blob = soup_ip.find_all('strong')[0]
+	salaries.append(salary_blob.text)
+	#Job description
+	job_description_blob = soup_ip.find_all('p',class_='blw default_cotent')
+	for job_description in job_description_blob:
+		stripped_job = job_description.text
+		job_descriptions.append(stripped_job.replace('\n',''))
+	#Minimum Education Level
+	min_edu_blob = soup_ip.find_all('strong')[1]
+	minimum_edu_levels.append(min_edu_blob.text)
 
 
 combined_list = []
-for job, salary, job_description in zip(job_titles,salaries,job_descriptions):
-	combined_list.append(dict(job_title = job, salary = salary, job_description = job_description))
+for job, salary, job_description, minimum_edu_level in zip(professions,salaries,job_descriptions,minimum_edu_levels):
+	combined_list.append(dict(job_title = job, salary = salary, job_description = job_description, minimum_education_level = minimum_edu_level))
 
-final_json = json.dumps(combined_list)
-JOB_DATA = json.loads(final_json)
-
-@app.route('/job_data', methods=['GET'])
-def all_job_data():
-    return jsonify({
-        'status': 'success',
-        'job_data': JOB_DATA
-    })
-
-app.run()
+print(combined_list)
