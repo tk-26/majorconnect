@@ -1,252 +1,1202 @@
 {"job_titles": [
     {
-       "job_title":"Healthcare Consultant",
-       "salary":"$79,065",
-       "job_description":"Having a job you love might require different things for different people. Some might prioritize a high salary, some might crave job satisfaction and others might want a job that enables them to work at their choice of companies. Job posting and review site Glassdoor equally weighted all three of these measures — median base salary, job satisfaction and the number of job openings — to determine its list of the 50 best jobs in America\\xa0for 2020."
+       "job_title":"Accountants and Auditors",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"Accountants compile, analyze, verify, and prepare financial records, including profit and loss statements, balance sheets, cost studies, and tax reports. Accountants may specialize in areas such as auditing, tax work, assurance, consulting, cost accounting, budgeting and control, or information technology systems and procedures. Accountants also may specialize in a particular business or field; for example, agricultural accountants specialize in drawing up and analyzing financial statements for farmers and for farm equipment companies. Auditors examine and verify financial records to ensure that they are accurate, complete, and in compliance with federal laws. There are more than 1.1 million accountants and auditors employed in the United States.",
+       "minimum_education_level":"Bachelor's Degree"
     },
     {
-       "job_title":"Network Engineer",
-       "salary":"$71,028",
-       "job_description":"A good salary and high job satisfaction rating put healthcare consultant among the best jobs of 2020, according to Glassdoor. Unfortunately, with the third-lowest number of job openings of any job on this list, it’s a hard career to get into."
+       "job_title":"Acquisitions Librarians",
+       "salary":"$25,000 to $100,000",
+       "job_description":"Acquisitions librarians build and maintain library collections, which include print items, such as books and periodicals, digital items, such as CD-ROMs and DVDs, electronic resources, such as e-books and databases, as well as music, art, and other resources available to library patrons. Acquisitions librarians are also called collection development librarians and collection development specialists. Acquisitions librarians are employed by all types of libraries, though the majority work in academic libraries.",
+       "minimum_education_level":"Master's Degree"
     },
     {
-       "job_title":"Design Manager",
-       "salary":"$120,549",
-       "job_description":"A relatively low base salary — the 10th-lowest base salary of the jobs included in this ranking — prevents this job from ranking higher."
+       "job_title":"Active and Contemplative Religious Sisters and Brothers",
+       "salary":"Below $25,000 to $50,000",
+       "job_description":"Within the Roman Catholic Church, the titles sister and brother are given to members of religious communities. Members take vows of poverty, chastity, and obedience and devote their lives to God. Sisters and brothers generally view their way of life not so much as a career but as a vocation—a calling. Another term for a sister or brother is a religious.Active religious sisters and brothers divide their time between private prayer, communal worship, and service work. Each active religious community has a particular mission for which it was founded, ranging from educating children to caring for the sick to missionary work. Contemplative religious sisters and brothers devote themselves entirely to private prayer and the celebration of the Mass. Through their private lives of contemplation, they praise God and intercede with him on behalf of the whole world. Cloistered contemplative sisters and brothers live apart from the rest of the world in monasteries and convents under papal enclosure, meaning that access to them is restricted. Contemplative brothers are often called monks (but are addressed as \"brother\"), while contemplative sisters are called nuns (but are addressed as \"sister\"). Active religious are usually just called brothers and sisters.",
+       "minimum_education_level":"High School Diploma"
     },
     {
-       "job_title":"Research Scientist",
-       "salary":"$85,611",
-       "job_description":"Although design manager ranks toward the bottom of this list due to its low amount of job openings — it has the lowest job postings on Glassdoor of any job on this list — it’s nice work if you can get it. The median base salary is the third-highest salary of any job in this ranking, and its job satisfaction rating is tied for the fourth-highest rating."
+       "job_title":"Actors",
+       "salary":"Below $25,000 to $100,000+",
+       "job_description":"Actors play parts or roles in dramatic productions on the stage, in motion pictures, on television or radio, or on the Internet. They impersonate, or portray, characters by speech, gesture, song, and dance. There are approximately 69,000 actors working in the United States.",
+       "minimum_education_level":"High School Diploma"
     },
     {
-       "job_title":"Automation Engineer",
-       "salary":"$85,456",
-       "job_description":"This best job enables you to work in a number of fields, including computer and information science; life, physical and social science; forensic science; environmental science; medical science; agriculture and food science; political science; and materials science."
+       "job_title":"Actuaries",
+       "salary":"$50,000 to $100,000+",
+       "job_description":"Actuaries use statistical formulas and techniques to calculate the probability of events such as death, disability, sickness, unemployment, retirement, and property loss. Actuaries develop formulas to predict how much money an insurance company will pay in claims, which determines the overall cost of insuring a group, business, or individual. Increase in risk raises potential cost to the company, which, in turn, raises its rates. Actuaries analyze risk to estimate the number and amount of claims an insurance company will have to pay. They assess the cost of running the business and incorporate the results into the design and evaluation of programs.Casualty actuaries specialize in property and liability insurance;\\xa0life actuaries in health and life insurance. Pension actuaries deal only with pension plans. The total number of actuaries employed in the United States is approximately 24,000.",
+       "minimum_education_level":"Bachelor's Degree"
     },
     {
-       "job_title":"EHS Specialist",
-       "salary":"$76,854",
-       "job_description":"With less than 3,000 job openings, an automation engineer could be a hard job to get. Those who are lucky enough to land a job in this field tend to have high salaries and a satisfying job."
+       "job_title":"Acupuncturists",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"Acupuncturists are health care professionals who practice the ancient East Asian healing art of acupuncture. Acupuncture is a complete medical system that helps to improve body functioning and promote natural healing. It has been practiced in China for thousands of years to maintain health, prevent disease, treat illness, and alleviate pain. It has been proven to be effective in the treatment of emotional and psychological problems as well as physical ailments. Acupuncture is one of the fastest growing health care professions. Most acupuncturists work in private practice, although an increasing number work in clinics and hospitals. Estimates of how many licensed acupuncturists are active in the United States range from 20,000 to more than 25,000.",
+       "minimum_education_level":"Master's Degree"
     },
     {
-       "job_title":"Data Analyst",
-       "salary":"$62,973",
-       "job_description":"Environmental health and safety specialists typically work in the manufacturing and production fields. Their job is to ensure that individual behaviors and procedures are safe for both the individual and the company as a whole. Among the top companies that employ for this position are Amazon and Boeing, according to PayScale."
+       "job_title":"Adaptive Physical Education Specialists",
+       "salary":"$25,000 to $100,000",
+       "job_description":"Adaptive physical education specialists teach physical education to adults and children with delayed motor development or other physical impairments. Specialists individualize instruction according to the student's age, skill level, and condition. They may screen and place students in physical education programs and monitor their progress by keeping records of their attendance and performance. There are approximately 40,000 special education teachers, including adaptive physical education specialists, employed in the United States.",
+       "minimum_education_level":"Bachelor's Degree"
     },
     {
-       "job_title":"Civil Engineer",
-       "salary":"$65,704",
-       "job_description":"A relatively low median base salary keeps data analyst from ranking higher on this list. Its base salary is the second lowest of the jobs that made the cut for this ranking."
+       "job_title":"Adult and Vocational Education Teachers",
+       "salary":"$25,000 to $100,000",
+       "job_description":"Adult and vocational education teachers teach basic academic subjects to adults who did not finish high school or who are learning to speak English, help prepare post-high school students and other adults for specific occupations, and provide personal enrichment. Adult education teachers offer basic education courses, such as reading and writing, or continuing education courses, such as literature and music. Vocational education teachers offer courses designed to prepare adults for specific occupations, such as data processor or automobile mechanic. Approximately\\xa065,990 teachers of adult literacy, remedial, and self-enrichment education are employed in the United States.",
+       "minimum_education_level":"Bachelor's Degree"
     },
     {
-       "job_title":"Sales Engineer",
-       "salary":"$87,608",
-       "job_description":"The median base salary for civil engineers is the fourth lowest compared to the other jobs in this ranking; however, its job satisfaction rating is high."
+       "job_title":"Adult Day Care Coordinators",
+       "salary":"Below $25,000 to $50,000",
+       "job_description":"Adult day care coordinators, also called adult day services coordinators, direct day service programs for adults who have physical or mental impairments or both. Clients of these programs are usually the elderly, although younger people with impairments, such as those recovering from strokes, may also participate in these programs. Coordinators oversee staff members who provide care, meals, and social activities to day care clients, and they serve as liaisons between their centers and their clients' families.",
+       "minimum_education_level":"Associate's Degree"
     },
     {
-       "job_title":"Physician Assistant",
-       "salary":"$109,585",
-       "job_description":"Sales engineer has the fifth-lowest number of job openings on Glassdoor compared to the other jobs on this ranking, but its relatively high salary and job satisfaction rating earned it a spot on this list."
+       "job_title":"Advanced Practice Nurses",
+       "salary":"$75,000 to $100,000+",
+       "job_description":"Advanced practice nurses (APNs) are a broad category of registered nurses (RNs) who have completed advanced clinical nurses' educational practice requirements beyond the two to four years of basic nursing education required for all RNs. Under the advanced practice nursing designation fall four categories of nursing specialties: clinical nurse specialists (CNSs), nurse practitioners (NPs), nurse-midwives (NMs), and nurse anesthetists (NAs). According to the U.S. Department of Labor, there are 151,400 advanced practice nurses working in the United States.",
+       "minimum_education_level":"Master's Degree"
     },
     {
-       "job_title":"Financial Analyst",
-       "salary":"$71,334",
-       "job_description":"The base salary for physician assistants is the sixth highest of all the jobs included in this ranking."
+       "job_title":"Adventure Travel Specialists",
+       "salary":"Below $25,000 to $75,000",
+       "job_description":"Adventure travel specialists develop, plan, and lead people on tours of places and activities that are unfamiliar to them. Most adventure travel trips involve physical participation and/or a form of environmental education. A whitewater rafting trip, a mountain climbing expedition, or a safari are just some examples of adventure travel. Organized adventure travel has grown rapidly in popularity over the past few decades. Adventure travel specialists are also known as adventure outfitters, adventure travel guides, adventure travel planners, ecotourism specialists, and trip planners.",
+       "minimum_education_level":"High School Diploma"
     },
     {
-       "job_title":"QA Engineer",
-       "salary":"$81,632",
-       "job_description":"Financial analysts give investment advice to businesses and individuals. This job typically requires a bachelor’s degree."
+       "job_title":"Advertising Account Executives",
+       "salary":"Below $25,000 to $100,000+",
+       "job_description":"Advertising account executives coordinate and oversee everything related to a client's advertising account and act as the primary liaison between the agency and the client. They are also responsible for building and maintaining professional relationships among clients and coworkers to ensure the successful completion of major ad campaigns and the assurance of continued business with clients. Advertising account executives are also known as advertising sales agents and advertising sales representatives. Advertising account executives hold\\xa0167,900 jobs in the United States.",
+       "minimum_education_level":"Bachelor's Degree"
     },
     {
-       "job_title":"UX Designer",
-       "salary":"$90,478",
-       "job_description":"With a 3.8 out of 5 job satisfaction rating, it’s safe to say many QA engineers like what they do. This job ranks toward the bottom, however, because it has the ninth-lowest job availability compared to the other positions considered to be the best."
+       "job_title":"Advertising and Marketing Managers",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"Advertising and marketing managers plan, organize, direct, and coordinate the operations of advertising and marketing firms. They may oversee an entire company, a geographical territory of a company's operations, or a specific department within a company. There are approximately 225,200 advertising and marketing managers employed in the United States.",
+       "minimum_education_level":"Bachelor's Degree"
     },
     {
-       "job_title":"Corporate Recruiter",
-       "salary":"$65,607",
-       "job_description":"UX designer checks off two of the three boxes to qualify as a best job — it has a high salary and high job satisfaction rating. However, low job availability prevents this job from ranking higher: It has the eighth-lowest number of job openings of any occupation on this list."
+       "job_title":"Advertising Workers",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"Advertising is defined as mass communication paid for by an advertiser to persuade a particular segment of the public to adopt ideas or take actions of benefit to the advertiser. Advertising workers perform the various creative and business activities needed to take an advertisement from the research stage, to creative concept, through production, and finally to its intended audience. There are\\xa0167,900 advertising sales agents and 225,200 advertising and promotions managers employed in the United States.",
+       "minimum_education_level":"Bachelor's Degree"
     },
     {
-       "job_title":"Mechanical Engineer",
-       "salary":"$75,700",
-       "job_description":"Corporate recruiter has the third-lowest median base salary of the jobs on this list but it has the highest job satisfaction rating — something money can’t buy."
+       "job_title":"Aerobics Instructors and Fitness Trainers",
+       "salary":"Below $25,000 to $100,000",
+       "job_description":"Aerobics instructors choreograph and teach aerobics classes of varying types. Classes are geared toward people with general good health as well as to specialized populations, including the elderly and those with specific health problems that affect their ability to exercise. Many people enjoy participating in the lively exercise routines set to music.Depending on where they are employed, fitness trainers help devise health conditioning programs for clients, from professional athletes to average individuals looking for guidance. Fitness trainers motivate clients to follow prescribed exercise programs and monitor their progress. When injuries occur, either during training or sporting events, fitness trainers determine the extent of the injury and administer first aid for minor problems such as blisters, bruises, and scrapes. Following more serious injury, trainers may work with a physical therapist to help the athlete perform rehabilitative exercises.There are approximately\\xa0241,000 aerobics instructors and fitness trainers employed in the United States.",
+       "minimum_education_level":"High School Diploma"
     },
     {
-       "job_title":"Realtor",
-       "salary":"$50,467",
-       "job_description":"These engineers are responsible for the design, development, manufacturing and testing of mechanical and thermal sensors and devices. They typically have a bachelor’s degree\\xa0in mechanical engineering or mechanical engineering technology. Mechanical engineers who sell services to the public must be licensed."
+       "job_title":"Aeronautical and Aerospace Technicians",
+       "salary":"$25,000 to $100,000",
+       "job_description":"Aeronautical and aerospace technicians design, construct, test, operate, and maintain the basic structures of aircraft and spacecraft, as well as propulsion and control systems. They work with scientists and engineers. Many aeronautical and aerospace technicians assist engineers in preparing equipment drawings, diagrams, blueprints, and scale models. They collect information, make computations, and perform laboratory tests. Their work may include working on various projects involving aerodynamics, structural design, flight-test evaluation, or propulsion problems. Other technicians estimate the cost of materials and labor required to manufacture the product, serve as manufacturers' field service technicians, and write technical materials. There are approximately\\xa011,400 aerospace technicians and 137,300 aircraft and avionics equipment mechanics and service technicians employed in the United States.",
+       "minimum_education_level":"Associate's Degree"
     },
     {
-       "job_title":"Product Designer",
-       "salary":"$102,000",
-       "job_description":"Although realtors have the lowest median base salary of the jobs on this ranking, the job is tied for the third-highest job satisfaction rating."
+       "job_title":"Aerospace Engineers",
+       "salary":"$50,000 to $100,000+",
+       "job_description":"Aerospace engineering encompasses the fields of aeronautical (aircraft) and astronautical (spacecraft) engineering. Aerospace engineers work in teams to design, build, and test machines that fly within the earth's atmosphere and beyond. Although aerospace science is a very specialized discipline, it is also considered one of the most diverse. This field of engineering draws from such subjects as physics, mathematics, earth science, aerodynamics, and biology. Some aerospace engineers specialize in designing one complete machine, perhaps a commercial aircraft, whereas others focus on separate components such as for missile guidance systems. There are approximately\\xa072,500 aerospace engineers working in the United States.",
+       "minimum_education_level":"Bachelor's Degree"
     },
     {
-       "job_title":"Cloud Engineer",
-       "salary":"$110,600",
-       "job_description":"Product designer is tied for the third-highest job satisfaction rating of all the occupations included on this list. However, it’s a hard job to get — it has the second-lowest number of job openings."
+       "job_title":"Agribusiness Technicians",
+       "salary":"Below $25,000 to $75,000",
+       "job_description":"Agribusiness technicians combine their agriculture and business backgrounds to manage or offer management consulting services to farms and agricultural businesses. Agribusiness technicians, also called agricultural business technicians and farm and home management advisers, generally work as liaisons between farms and agricultural businesses, representing either the farm or the business.",
+       "minimum_education_level":"Associate's Degree"
     },
     {
-       "job_title":"Software Developer",
-       "salary":"$80,429",
-       "job_description":"Cloud engineers have the fifth-highest median base salary of any job on this list."
+       "job_title":"Agricultural Consultants",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"Agricultural consultants, sometimes known as agricultural extension service workers, live in rural communities and act as resources for farmers on a range of topics from agricultural technology to the issues facing the modern rural family. They are employed by either the U.S. Department of Agriculture (USDA) or by the department of agriculture and the agricultural colleges in that state. Agricultural consultants advise farmers on improved methods of agriculture and agricultural work such as farm management, crop rotation, soil conservation, livestock breeding and feeding, use of new machinery, and marketing. They assist individuals wishing to start their own farms, provide the most current agricultural advancements to the community, and speak to the community or local government groups on agricultural issues. They also supervise the work of family and community educators and young people's clubs such as 4-H, which is sponsored by the National Institute of Food and Agriculture (NIFA).",
+       "minimum_education_level":"Bachelor's Degree"
     },
     {
-       "job_title":"Risk Manager",
-       "salary":"$101,468",
-       "job_description":"With nearly 32,000 job openings on Glassdoor, software developer positions are the third-most in-demand job on this list."
+       "job_title":"Agricultural Equipment Technicians",
+       "salary":"Below $25,000 to $75,000",
+       "job_description":"Agricultural equipment technicians work with modern farm machinery. They assemble, adjust, operate, maintain, modify, test, and even help design it. This machinery includes automatic animal feeding systems; milking machine systems; and tilling, planting, harvesting, irrigating, drying, and handling equipment. Agricultural equipment technicians work on farms or for agricultural machinery manufacturers or dealerships. They often supervise skilled mechanics and other workers who keep machines and systems operating at maximum efficiency. Agricultural equipment technicians are sometimes known as farm equipment mechanics and farm equipment service technicians. Approximately\\xa035,320 agricultural equipment mechanics and technicians are employed in the United States.",
+       "minimum_education_level":"High School Diploma"
     },
     {
-       "job_title":"Customer Success Manager",
-       "salary":"$66,326",
-       "job_description":"Risk managers can work in a variety of aspects of a business, identifying and evaluating the risks that could affect it.\\xa0They look at what could go wrong and develop strategies to minimize, eliminate or transfer the risk."
+       "job_title":"Agricultural Pilots",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"Agricultural pilots, also called ag pilots, crop dusters, and aerial applicators, perform flying jobs related to the farming industry. They are skilled professionals who operate aircraft for such purposes as transporting cargo to market, aerial applications (also known as crop dusting), hauling feed, or planting seed. In addition to flying aircraft, agricultural pilots perform a variety of safety-related tasks involving both the aircraft and the cargo. They may be self-employed or work for large pest control companies or government agencies. There are approximately 43,500 commercial pilots (a category that includes agricultural pilots) employed in the United States.",
+       "minimum_education_level":"Some Postsecondary Training"
     },
     {
-       "job_title":"Scrum Master",
-       "salary":"$100,000",
-       "job_description":"The median base salary for customer success managers is the fifth lowest of the jobs in this ranking, but it’s tied for the third-highest job satisfaction rating."
+       "job_title":"Agricultural Scientists",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"Agricultural scientists study all aspects of living organisms and the relationships of plants and animals to their environment. They conduct basic research in laboratories or in the field. They apply the results to such tasks as increasing crop and animal yields and improving the environment. Some agricultural scientists plan and administer programs for testing foods, drugs, and other products. Others direct activities at public exhibits at such places as zoos and botanical gardens. Agricultural engineers apply engineering principles to the food and agriculture industries. They design or develop agricultural equipment and machines, supervise production, and conduct tests on new designs and machine parts. Some agricultural scientists are professors at colleges and universities or work as consultants to business firms or the government. Others work in technical sales and service jobs for manufacturers of agricultural products. There are approximately 20,600 animal and soil and plant scientists and\\xa02,900 agricultural engineers in the United States.",
+       "minimum_education_level":"Master's Degree"
     },
     {
-       "job_title":"Compliance Officer",
-       "salary":"$84,784",
-       "job_description":"A six-figure base salary helps get scrum master on this list, but it could be a hard job to get. The job has the sixth-lowest number of openings compared to the other positions included in this ranking."
+       "job_title":"Air Quality Engineers ",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"Air quality engineers, or air pollution control engineers, develop techniques to analyze and control air pollution by using sophisticated monitoring, chemical analysis, computer modeling, and statistical analysis. Some air quality engineers design or modify pollution-control equipment. Government-employed air quality experts keep track of a region's polluters, enforce federal regulations, and impose fines or take other action against those who do not comply with regulations. Privately employed engineers may monitor companies' emissions for certain targeted pollutants to ensure that they are within acceptable levels. Air quality engineers who work in research seek ways to combat or avoid air pollution. There are\\xa055,100 environmental engineers, including air quality engineers, employed in the United States.",
+       "minimum_education_level":"Bachelor's Degree"
     },
     {
-       "job_title":"Systems Engineer",
-       "salary":"$92,225",
-       "job_description":"Compliance officers\\xa0examine, evaluate and investigate how well laws and regulations comply with licenses and permits. People with this job commonly work for the government."
+       "job_title":"Air Traffic Controllers",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"Air traffic controllers monitor and direct the activities of aircraft into and out of airports and along specified flight routes. They radio pilots with approach, landing, taxiing, and takeoff instructions and advisories on weather and other conditions. These reports help maintain the safe and orderly flow of air traffic both in the air and on the ground. There are approximately\\xa024,500 air traffic controllers employed in the United States.",
+       "minimum_education_level":"High School Diploma"
     },
     {
-       "job_title":"Business Analyst",
-       "salary":"$73,022",
-       "job_description":"Systems engineer positions have the eighth-most job openings of any occupation in this ranking."
+       "job_title":"Aircraft Mechanics",
+       "salary":"$25,000 to $100,000",
+       "job_description":"Aircraft mechanics examine, service, repair, and overhaul aircraft and aircraft engines. They also repair, replace, and assemble parts of the airframe (the structural parts of the plane other than the power plant or engine). There are about\\xa0137,300 aircraft mechanics working in the United States.",
+       "minimum_education_level":"Some Postsecondary Training"
     },
     {
-       "job_title":"Sales Manager",
-       "salary":"$70,489",
-       "job_description":"Business analysts help companies to improve processes, products, services and software through data analysis. They act as a conduit between IT and business interests to improve efficiency."
+       "job_title":"Airplane Dispatchers",
+       "salary":"Below $25,000 to $100,000",
+       "job_description":"Airplane dispatchers plan and direct commercial air flights according to government and airline company regulations. They read radio reports from airplane pilots during flights and study weather reports to determine any necessary change in flight direction or altitude. They send instructions by radio to the pilots in the case of heavy storms, fog, mechanical difficulties, or other emergencies. Airline dispatchers are sometimes called flight superintendents. The Airline Dispatchers Federation has approximately 1,500 members.",
+       "minimum_education_level":"Some Postsecondary Training"
     },
     {
-       "job_title":"Facilities Manager",
-       "salary":"$70,160",
-       "job_description":"The pay for sales managers is among the lowest in this ranking, but its job satisfaction could make up for it."
+       "job_title":"Airport Security Personnel",
+       "salary":"$25,000 to $100,000",
+       "job_description":"Airport security personnel is a blanket term that describes all workers who protect the safety of passengers and staff in the nation's airports and aircraft. One of the largest group of personnel in this line of work is transportation security officers (more commonly called security screeners), who are responsible for identifying dangerous objects or hazardous materials in baggage, cargo, or on traveling passengers and preventing these objects and their carriers from boarding planes. Also included in this group of workers are air marshals, who act as on-board security agents, protecting passengers, pilots, and other airline staff in the case of any emergencies while in the air. Security directors oversee security operations and staff for entire airports. Approximately\\xa043,220 security screeners are employed in the United States.\\xa0",
+       "minimum_education_level":"Some Postsecondary Training"
     },
     {
-       "job_title":"Occupational Therapist",
-       "salary":"$74,339",
-       "job_description":"The median base salary for facilities managers is the seventh lowest of the jobs included in this ranking, but a 3.8 out of 5 job satisfaction ranking could compensate for that."
+       "job_title":"Airport Service Workers",
+       "salary":"Below $25,000 to $100,000",
+       "job_description":"The term airport service worker is a general designation for a wide variety of workers who are employed in support occupations at airports. Many of these workers deal directly with the public in sales- and service-based occupations. Others perform behind-the-scenes maintenance and cleaning services that keep public and private areas of airports clean and operating efficiently.",
+       "minimum_education_level":"High School Diploma"
     },
     {
-       "job_title":"Electrical Engineer",
-       "salary":"$77,035",
-       "job_description":"There are almost 15,000 job openings for occupational therapists — the 10th-highest number of job openings of all the careers included in this ranking."
+       "job_title":"Alcohol and Drug Abuse Counselors",
+       "salary":"Below $25,000 to $75,000",
+       "job_description":"Alcohol and drug abuse counselors (sometimes called substance abuse counselors) work with people who abuse or are addicted to drugs or alcohol. Through individual and group counseling sessions, they help their clients understand and change their destructive substance abuse behaviors. Approximately 94,900 substance abuse and behavioral disorder counselors are employed in the United States.",
+       "minimum_education_level":"Associate's Degree"
     },
     {
-       "job_title":"Project Manager",
-       "salary":"$77,396",
-       "job_description":"Electrical engineers research, design, develop, test or oversee the manufacturing and installation of electrical equipment, parts or systems for a variety of uses, including commercial, industrial and military."
+       "job_title":"Allergists/Immunologists",
+       "salary":"$50,000 to $100,000+",
+       "job_description":"Allergists/immunologists are physicians that specialize in the treatment of allergic, asthmatic, and immunologic diseases. They treat patients with asthma, hay fever, food allergies, AIDS, allergic diseases of the eye and skin, rheumatoid arthritis, and other diseases. There are approximately\\xa05,450 board-certified allergists/immunologists employed in the United States.",
+       "minimum_education_level":"Doctorate"
     },
     {
-       "job_title":"Physical Therapist",
-       "salary":"$71,483",
-       "job_description":"There are lots of opportunities to get this best job. Project manager positions have the second-most job openings of any job on this list."
+       "job_title":"Ambassadors",
+       "salary":"$50,000 to $100,000+",
+       "job_description":"Ambassadors manage the operations of the U.S. embassies in foreign countries. An embassy is the headquarters of a U.S. diplomatic mission established in the capital city of a foreign country. According to the U.S. Department of State, the United States maintains diplomatic relations with more than 180 of the other 193 U.N. members (plus the Vatican in Rome) and has an embassy in most foreign capitals. Each embassy is headed by only one ambassador. Charged with the responsibility of maintaining diplomatic relations, an ambassador represents the president in matters of foreign policy. Ambassadors help to promote peace, trade, and the exchange of information between the United States and foreign lands.",
+       "minimum_education_level":"Bachelor's Degree"
     },
     {
-       "job_title":"Clinic Manager",
-       "salary":"$70,000",
-       "job_description":"Physical therapist is the fifth-most in-demand job on this list based on the number of job openings on Glassdoor."
+       "job_title":"Amusement Park Workers ",
+       "salary":"Below $25,000 to $75,000",
+       "job_description":"Amusement park workers function in a variety of jobs. Some are employed to construct, maintain, and operate thrill rides; others, assigned to the front gate, issue tickets or passes; some work concession stands or manage park restaurants and gift shops; many are employed as entertainers. There are also numerous behind-the-scenes departments such as security, marketing, or personnel. Each particular department, regardless of the amount of customer contact, is necessary for the smooth and profitable operation of the park, as well as the enjoyment of the park patron.",
+       "minimum_education_level":"High School Diploma"
     },
     {
-       "job_title":"Applications Engineer",
-       "salary":"$76,854",
-       "job_description":"Although clinic managers have the sixth-lowest median base pay of the jobs on this list, it has a high job satisfaction rating."
+       "job_title":"Anesthesiologist Assistants",
+       "salary":"$50,000 to $100,000+",
+       "job_description":"Anesthesiologist assistants work under the direction of anesthesiologists, who plan, perform, and maintain patients' anesthesia during surgical, obstetric, or other medical procedures. Anesthesiologist assistants take patients' histories, perform exams, and prepare patients for surgeries. They monitor patients' health and comfort throughout surgical procedures. According to the Bureau of Labor Statistics, there are approximately 104,050 physician assistants, including anesthesiologist assistants, employed in the United States.",
+       "minimum_education_level":"Bachelor's Degree"
     },
     {
-       "job_title":"Program Manager",
-       "salary":"$87,005",
-       "job_description":"Applications engineers create, implement and maintain computer applications and software that’s designed to meet an organization’s or customer’s needs. The majority of people with this job are men, according to PayScale."
+       "job_title":"Anesthesiologists",
+       "salary":"$50,000 to $100,000+",
+       "job_description":"Anesthesiologists are physicians who specialize in the planning, performance, and maintenance of a patient's anesthesia during surgical, obstetric, or other medical procedures. Using special equipment, monitors, and drugs, the anesthesiologist makes sure the patient feels no pain and remains uninjured during the procedure. There are approximately\\xa030,190 anesthesiologists employed in the United States.",
+       "minimum_education_level":"Medical Degree"
     },
     {
-       "job_title":"Accounting Manager",
-       "salary":"$85,794",
-       "job_description":"There are almost 20,000 job openings for program managers — the sixth-highest number of job openings compared to any other job on this list."
+       "job_title":"Animal Behaviorists",
+       "salary":"$25,000 to $100,000",
+       "job_description":"Animal behaviorists are scientists who study and observe the ways animals behave. They determine what causes certain types of behavior in animals and find ways to change animal behavior. They may conduct research or teach. Some train or retrain animals. They also resolve behavior problems in companion animals.",
+       "minimum_education_level":"Bachelor's Degree"
     },
     {
-       "job_title":"Finance Manager",
-       "salary":"$120,644",
-       "job_description":"With a job satisfaction rating of 4 out of 5, this job is tied for the fifth-most satisfying job on this list."
+       "job_title":"Animal Breeders and Technicians",
+       "salary":"Below $25,000 to $75,000",
+       "job_description":"Animal breeders and technicians help breed, raise, and market a variety of animals: cattle, sheep, pigs, horses, mules, and poultry for livestock; pets such as canaries, parrots, dogs, and cats; and other more exotic animals such as ostriches, alligators, minks, and many zoo animals. Technicians who are primarily involved with the breeding and feeding of animals are sometimes referred to as animal husbandry technicians. The Bureau of Labor Statistics reports there were approximately 7,000 animal breeders in the United States in 2014.Breeders and technicians are concerned with the propagation, feeding, housing, health, production, and marketing of animals. These technicians work in many different settings and capacities. They may supervise unskilled farm workers; serve as field representatives assisting in the sales of animals to customers; work in kennels, stables, ranches, or zoos reproducing species and breeds for other clients or their own organization; or work on their own on a particular breed of interest. The diversity of employment available for well-trained and well-qualified animal breeders and technicians makes this career extremely flexible. As science progresses, opportunities for these technicians should broaden.",
+       "minimum_education_level":"Some Postsecondary Training"
     },
     {
-       "job_title":"Salesforce Developer",
-       "salary":"$81,175",
-       "job_description":"Finance managers have the second-highest median base salary of any job on this list."
+       "job_title":"Animal Caretakers",
+       "salary":"Below $25,000 to $50,000",
+       "job_description":"Animal caretakers, as the name implies, take care of animals. The job ranges from the day-to-day normal activities for a healthy animal to caring for sick, injured, or aging animals. The daily animal caretaking routine usually involves feeding and providing drinking water for each animal, making sure that their enclosure is clean, safe, appropriately warm, and, if needed, stocked with materials to keep the animal active and engaged. Caretakers may be responsible for creating different enrichment materials so that the animal is challenged by new objects and activities. They may exercise or train the animals. They may assist veterinarians or other trained medical staff in working with animals that require treatment. Animal caretakers may also maintain the written or digital records for each animal. These records can include weight, eating habits, behavior, medicines given, or treatment given. There are approximately 161,820\\xa0nonfarm animal caretakers and 73,400 veterinary assistants and laboratory animal caretakers, according to the U.S. Department of Labor.",
+       "minimum_education_level":"Associate's Degree"
     },
     {
-       "job_title":"Operations Manager",
-       "salary":"$70,189",
-       "job_description":"A high job satisfaction rating — the third-highest job satisfaction score that any job in this ranking earned — makes Salesforce developer one of the best jobs you can get in 2020."
+       "job_title":"Animal Handlers",
+       "salary":"Below $25,000 to $75,000",
+       "job_description":"Anybody who works directly with animals, from the caretaker of your local park's petting zoo to the wildlife biologist who reintroduces wild animals to national parks, is an animal handler. Animal handlers care for, train, and study animals in such places as zoos, parks, research laboratories, animal breeding facilities, rodeos, and museums. An animal handler's job involves feeding the animals, cleaning their living and sleeping areas, preparing medications, and other aspects of basic care. A handler may also be actively involved in an animal's training, and in presenting animals to the public in shows and parks. According to the U.S. Department of Labor, there are about\\xa0161,820 nonfarm animal caretakers in the United States.",
+       "minimum_education_level":"High School Diploma"
     },
     {
-       "job_title":"HR Manager",
-       "salary":"$83,190",
-       "job_description":"With a median base salary of just over $70,000, operations manager has the eighth-lowest base salary compared to the other jobs that are considered the best this year. However, it has more job openings than most of the other jobs in this ranking, so you have a better shot at actually getting this job."
+       "job_title":"Animal Trainers",
+       "salary":"Below $25,000 to $75,000",
+       "job_description":"Animal trainers teach animals to obey commands so the animals can be counted on to perform these tasks in given situations. The animals can be trained for up to several hundred commands, to compete in shows or races, to perform tricks to entertain audiences, to protect property, or to act as guides for the disabled. Animal trainers may work with several types of animals or specialize with one type. According to the U.S. Department of Labor, approximately\\xa013,590 animal trainers are employed in the United States.",
+       "minimum_education_level":"Some Postsecondary Training"
     },
     {
-       "job_title":"Nursing Manager",
-       "salary":"$85,389",
-       "job_description":"HR managers are happy with their jobs. This occupation is tied for the fourth-highest job satisfaction rating of all the positions included on this list."
+       "job_title":"Animators",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"Animators are artists who design the moving characters that appear in movies, videos, television shows, commercials, Web sites, and in other digital media. They are also known as digital animators and motion cartoonists. There are 29,000 multimedia artists and animators employed in the United States, according to the U.S. Department of Labor.",
+       "minimum_education_level":"Apprenticeship"
     },
     {
-       "job_title":"Business Development Manager",
-       "salary":"$78,480",
-       "job_description":"Nursing managers direct, supervise and lead the nursing staff at a hospital or other medical facility. The job requires a bachelor’s degree in nursing, and many positions also require a\\xa0master of science in nursing (MSN) or a master’s in healthcare or business administration (MHA/MBA)."
+       "job_title":"Anthropologists",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"Anthropologists study the origin and evolution of humans from a scientific point of view, focusing on the ways of life, physical characteristics, languages, values, customs, and social patterns of people in various parts of the world. According to the Occupational Outlook Handbook, anthropologists and archeologists, who study evidence and artifacts from past human cultures, hold about 6,400 jobs in the United States.",
+       "minimum_education_level":"Master's Degree"
     },
     {
-       "job_title":"Strategy Manager",
-       "salary":"$133,067",
-       "job_description":"A high job satisfaction rating makes business development manager one of the top 10 best jobs you can get. With a score of 4 out of 5, its rating is tied for the fifth highest overall."
+       "job_title":"Antiques and Art Dealers",
+       "salary":"Below $25,000 to $100,000+",
+       "job_description":"Antiques and art dealers make a living acquiring, displaying, and selling antiques and art. By strict definition, antiques are often defined as items more than 100 years old. In the last two decades, however, the term \"antique\" has been applied to furniture, jewelry, clothing, art, household goods, and many other collectibles, dating back to as recently as the 1970s. People collect a wide array of items, from traditional paintings and sculptures to unique period toys and cigar boxes. Many antiques and art dealers are self-employed and go into business after discovering an interest in collecting pieces themselves.",
+       "minimum_education_level":"High School Diploma"
     },
     {
-       "job_title":"Speech Language Pathologist",
-       "salary":"$71,867",
-       "job_description":"If high pay is the most important factor for you, this is the best job on this list. The median base salary for strategy managers is the highest of any of the jobs in this ranking. Additionally, it has the second-highest job satisfaction rating. It fails to rank higher because it has the 10th-lowest number of job openings on this list."
+       "job_title":"Apparel Industry Workers",
+       "salary":"Below $25,000 to $50,000",
+       "job_description":"Apparel industry workers produce, maintain, or repair clothing and other consumer products made from cloth, leather, or fur. The three basic processes of garment production are cutting, sewing, and pressing. According to the U.S. Department of Labor, there are approximately\\xa015,650 textile, apparel, and furnishings workers;\\xa0139,500 sewing machine operators;\\xa021,660 tailors, dressmakers, and custom sewers; and\\xa045,150 pressers. Apparel industry employees work primarily in manufacturing firms, though some are employed in retail establishments or laundries and dry-cleaners. They may be involved in creating apparel, from working with the pattern to cutting or sewing together parts of a garment through the final stages of finishing or inspecting the item.",
+       "minimum_education_level":"High School Diploma"
     },
     {
-       "job_title":"Software Engineer",
-       "salary":"$105,563",
-       "job_description":"There are nearly 30,000 open positions for speech pathologists on Glassdoor — the fourth-highest number of job openings available for any job in this ranking."
+       "job_title":"Appliance Service Technicians",
+       "salary":"Below $25,000 to $75,000",
+       "job_description":"Appliance service technicians install and service many kinds of electrical and gas appliances, such as washing machines, dryers, refrigerators, ranges, and vacuum cleaners. Some repairers specialize in one type of appliance, such as air conditioners, while others work with a variety of appliances, both large and small, that are used in homes and business establishments. There are approximately 33,480 appliance service technicians in the United States.",
+       "minimum_education_level":"High School Diploma"
     },
     {
-       "job_title":"Data Engineer",
-       "salary":"$102,472",
-       "job_description":"The median base salary for software engineers is the ninth-highest of all the jobs included in this ranking. It also ranks highly because it has the most job openings of any of the included occupations."
+       "job_title":"Aquaculturists",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"Aquaculturists, also known as fish farmers, fish culturists, or mariculturists, raise fish, shellfish, or other aquatic life (such as aquatic plants) under controlled conditions for profit and/or human consumption.",
+       "minimum_education_level":"Bachelor's Degree"
     },
     {
-       "job_title":"DevOps Engineer",
-       "salary":"$107,310",
-       "job_description":"Data engineers are responsible for managing, optimizing, overseeing and monitoring data retrieval, storage and distribution. These engineers work as part of an enterprise data analytics team and commonly work at tech companies."
+       "job_title":"Aquarists",
+       "salary":"Below $25,000 to $50,000",
+       "job_description":"Aquarists work for aquariums, oceanariums, and marine research institutes. They maintain aquatic exhibits. Among other duties, they feed the fish, check water quality, clean the tanks, and collect and transport new specimens.",
+       "minimum_education_level":"Bachelor's Degree"
     },
     {
-       "job_title":"Product Manager",
-       "salary":"$117,713",
-       "job_description":"A high salary helps DevOps rank toward the top of this list. The job’s median base salary is the eighth highest of all the jobs included in the ranking."
+       "job_title":"Arborists",
+       "salary":"Below $25,000 to $75,000",
+       "job_description":"Arborists are professionals who practice arboriculture, which is the care of trees and shrubs, especially those found in urban areas. Arborists prune and fertilize trees and other woody plants as well as monitor them for insects and diseases. Arborists, who are also known as tree trimmers and pruners, are often consulted for various tree-related issues. Approximately\\xa040,680 tree trimmers and pruners are employed in the United States.",
+       "minimum_education_level":"Associate's Degree"
     },
     {
-       "job_title":"Data Scientist",
-       "salary":"$107,801",
-       "job_description":"The median base salary for product managers is the fourth highest of any job on this list."
+       "job_title":"Archaeologists",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"Archaeologists study the origin and evolution of humans. They study the physical evidence of human culture, examining such items as tools, burial sites, buildings, religious icons, pottery, and clothing. There are approximately\\xa06,470 archaeologists and anthropologists in the United States.",
+       "minimum_education_level":"Master's Degree"
     },
     {
-       "job_title":"Java Developer",
-       "salary":"$83,589",
-       "job_description":"This job is one of the highest paying on this list: Its median base salary is the seventh highest overall. In addition, data scientist is tied for the fifth-highest job satisfaction rating."
+       "job_title":"Archakas",
+       "salary":"Below $25,000 to $75,000",
+       "job_description":"Archakas lead worship services, perform ceremonies and rituals, and officiate at festivals in Hindu temples. They tend to the spiritual needs of approximately one billion Hindus worldwide (including 2.5 million in the United States). The majority of archakas are male, but a growing number are female. Archakas are also known as pandits, pujaris, and temple priests.",
+       "minimum_education_level":"Bachelor's Degree"
     },
     {
-       "job_title":"Front End Engineer",
-       "salary":"$105,240",
-       "job_description":"A high job satisfaction rating plus the ninth-highest amount of job openings of all the positions on this list puts Java developer so close to the top of this best jobs list."
+       "job_title":"Architects",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"Architects plan, design, and observe construction of facilities used for human occupancy and of other structures. They consult with clients, plan layouts of buildings, prepare drawings of proposed buildings, write specifications, and prepare scale and full-sized drawings. Architects also may help clients to obtain bids, select a contractor, and negotiate the construction contract. They visit construction sites to ensure that the work is being completed according to specification. There are approximately\\xa099,860 architects working in the United States.",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Archivists",
+       "salary":"$25,000 to $100,000",
+       "job_description":"Archivists contribute to the study of the arts and sciences by analyzing, acquiring, and preserving historical documents, artwork, organizational and personal records, and information systems that are significant enough to be preserved for future generations. Archivists keep track of artifacts such as letters, contracts, films, photographs, video and sound recordings, digital files, blueprints, and other items of potential historical significance. Approximately\\xa05,760 archivists are employed in the United States.",
+       "minimum_education_level":"Master's Degree"
+    },
+    {
+       "job_title":"Armored Truck Drivers",
+       "salary":"Below $25,000 to $75,000",
+       "job_description":"Armored truck drivers, also known as armored car drivers, armored guards, or armored messengers, are trained security personnel who guard and transport\\xa0 money, jewelry, and/or other valuables from one location to another in armored trucks, vans, or cars. The Bureau of Labor Statistics classifies armored truck drivers as armed guards. While not every armed guard is an armored truck driver, the BLS reported that there were\\xa01,103,120 people in this field in 2015. Individuals may work for corporate and business clients as well as the military.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Aromatherapists",
+       "salary":"Below $25,000 to $100,000",
+       "job_description":"Aromatherapists are health care specialists who use essential plant oils to promote health in their clients. Essential oils are highly concentrated substances that give plants their fragrance. These substances are extracted from various parts of aromatic plants, such as roots, woods, seeds, fruits, leaves, and flowers. Only about 5 percent of all types of plants are used for their essential oils.Since the early 20th century, the professions of cosmetology, medicine, and psychology have rediscovered the healing powers of essential oils that were known to earlier civilizations. Scientific studies show that inhaling the fragrance of certain essential oils has physiological and psychological effects on the brain. Aromatherapists study the oils and their effects on individuals. They use this knowledge to help improve their clients' quality of life.Most aromatherapists are licensed in other areas of health care or body care, using aromatherapy as a supplementary tool in their licensed profession. Among these licensed professionals are beauticians, chiropractors, cosmeticians, massage therapists, medical doctors, naturopathic doctors, nurse practitioners, and nurses. A few individuals who specialize in aromatherapy work as chemists, educators, or authors. A very few grow plants for the distillation of essential oils, become consultants, or start their own lines of aromatherapy products.",
+       "minimum_education_level":"Some Postsecondary Training"
+    },
+    {
+       "job_title":"Art Directors",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"Art directors,\\xa0sometimes known as creative directors, play a key role in every stage of the creation of media and products with a visual component such as advertising, newspapers and magazines, books, films, television programs, video games, and Web sites.In advertising, they contribute to an ad or ad campaign, from formulating concepts to supervising production. Ultimately, they are responsible for planning and overseeing the presentation of their clients' messages in print or on screen—that is, in books, magazines, newspapers, television commercials and shows, posters, and packaging, as well as in film and video and on the Internet.In publishing, art directors work with artists, photographers, and text editors to develop visual images and generate copy, according to the marketing strategy. They evaluate existing illustrations, determine presentation styles and techniques, hire both staff and freelance talent, work with layouts, and prepare budgets.In films, videos, and television commercials and shows, art directors, under the direct supervision of production designers, set the general look of the visual elements and approve the props, costumes, and models.In digital content, art directors conceptualize the overall style and presentation of a Web site or an app and may select graphics or illustrationsIn sum, art directors are charged with selling to, informing, and educating consumers. They supervise both in-house and off-site staff, handle executive issues, and oversee the entire artistic production process. There are\\xa036,210 art directors working in the United States.",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Art Teachers",
+       "salary":"Below $25,000 to $100,000",
+       "job_description":"Art teachers instruct students how to produce, appreciate, and understand the fine arts. Like teachers in other fields, they develop teaching outlines and lesson plans, give lectures, facilitate discussions and activities, keep class attendance records, assign homework, and evaluate student progress. Elementary school art teachers instruct younger students in the basics of art, such as colors and basic drawing, while secondary school art teachers and college art professors generally specialize in one area of art, such as studio art, photography, ceramics, or computer imaging. This article will focus on art teachers at the elementary and secondary levels, as well as those who teach self-enrichment classes at private educational institutions and other settings.",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Artist and Repertoire Workers",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"In the artist and repertoire (A&R) department of a record company, A&R coordinators, executives, and other workers locate new talent and convince the company to sign them to contracts. A&R workers are also involved in producing their artists' music, promoting them, arranging concert tours, and other details of management.",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Artists",
+       "salary":"Below $25,000 to $100,000+",
+       "job_description":"Visual artists convey thoughts, opinions, and ideas through their work, whether it is a realistic painting, a piece of pottery, or an abstract sculpture. They use one or more media, such as clay, paint, metal, or computer technology, to create two- or three-dimensional works. The field of visual arts is usually separated into three categories: commercial art, fine art, and craft. There are approximately\\xa05,070 craft artists,\\xa011,520 fine artists,\\xa029,810 multimedia artists, and\\xa0210,710 graphic designers employed in the United States, and most artists are self-employed.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Asbestos Abatement Technicians",
+       "salary":"Below $25,000 to $75,000",
+       "job_description":"Asbestos abatement technicians, also known as asbestos removal technicians, assist with the removal of asbestos-containing materials from buildings (or coat and seal asbestos to eliminate exposure). Asbestos, now recognized as a hazardous material when released into the air, was once widely used in wall insulation, paint, pipes, ceiling tiles, and other building materials because of its fire-retardant properties. There are approximately\\xa044,280 hazardous materials removal workers in the United States.",
+       "minimum_education_level":"Some Postsecondary Training"
+    },
+    {
+       "job_title":"Assessors and Appraisers",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"Assessors and appraisers collect and interpret data to make judgments about the value, quality, and use of property. Assessors are government officials who evaluate property for the express purpose of determining how much the real estate owner should pay the city or county government in property taxes. Appraisers evaluate the market value of property to help people make decisions about purchases, sales, investments, mortgages, or loans. Rural districts or small towns may have only a few assessors, while large cities or urban counties may have several hundred. Appraisers are especially in demand in large cities but also work in smaller communities. There are approximately\\xa060,770 real estate assessors and appraisers employed in the United States.",
+       "minimum_education_level":"Associate's Degree"
+    },
+    {
+       "job_title":"Astrobiologists",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"Astrobiologists, also known as exobiologists, life scientists, and space scientists, study the origin of all life forms—from a simple one-celled organism, to plants, to human beings. They study and research the evolution, distribution, and future of these life forms, on Earth as well as on other planets in our solar system and beyond. Many astrobiologists are employed by the National Aeronautics and Space Administration (NASA) and other government-funded agencies. They are also employed at private research institutions and colleges and universities.",
+       "minimum_education_level":"Master's Degree"
+    },
+    {
+       "job_title":"Astrogeologists",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"Geologists study all aspects of the Earth, including its origin, history, composition, and structure. Astrogeologists are specialized geologists who study the geology of the Earth’s Moon, other planets and their moons, comets, asteroids, and meteorites. They are also known as exogeologists and planetary geologists. Approximately\\xa036,400 geoscientists (including geologists) are employed in the United States. Only a tiny fraction of these workers specialize in the field of astrogeology.",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Astronauts",
+       "salary":"$50,000 to $100,000+",
+       "job_description":"Astronauts conduct experiments and gather information while in space flight, including on the International Space Station. They also conduct experiments with the spacecraft itself to develop new concepts in design, engineering, and the navigation of a vehicle outside the Earth's atmosphere.",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Astronomers",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"Astronomers study the universe and its celestial bodies by collecting and analyzing data. They also compute positions of stars and planets and calculate orbits of comets, asteroids, and artificial satellites. They strive to explain how the universe came to exist, how elements formed, why galaxies look the way they do, and whether there is other life in the universe. Astronomers make statistical studies of stars and galaxies and prepare mathematical tables giving positions of the sun, moon, planets, and stars at a given time. They study the size and shape of the Earth and the properties of its upper atmosphere through observation and through data collected by spacecraft and Earth satellites. There are approximately 1,760 astronomers employed in the United States.",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Astrophysicists",
+       "salary":"$50,000 to $100,000+",
+       "job_description":"Astrophysics is a specialty that combines two fields of science: astronomy and physics. Astrophysicists use the principles of physics to study the solar system, stars, galaxies, and the universe. How did the universe begin? How is the universe changing? These are the types of questions astrophysicists try to answer through research and experimentation. Physicists may also be concerned with such issues, but they use physics to study broader areas such as gravity, electromagnetism, and nuclear interactions. There are approximately 20,000 physicists and astronomers employed in the United States.",
+       "minimum_education_level":"Master's Degree"
+    },
+    {
+       "job_title":"Athletic Directors",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"Athletic directors coordinate and oversee athletic programs at public and private colleges and universities. They manage staff; calculate budgets; negotiate broadcasting and other business contracts; raise funds to meet budget shortfalls; ensure that their programs meet academic-, financial-, and gender-related compliance issues; and serve as the public faces of their institutions' athletic programs by talking with media and fans. Athletic directors may also be called directors of athletics, athletic directors of intercollegiate athletics, and athletic administrators.",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Auctioneers",
+       "salary":"Below $25,000 to $100,000+",
+       "job_description":"Auctioneers appraise, assemble, and advertise goods, which they subsequently sell to the highest bidder during an auction. They act as salespeople for the family, company, or agency selling the items to be auctioned. Depending on their area of expertise, they may auction off anything from a rare book to an entire office building.\\xa0",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Audio Recording Engineers",
+       "salary":"Below $25,000 to $100,000",
+       "job_description":"Audio recording engineers oversee the technical end of recording. They operate the controls of the recording equipment—often under the direction of a music producer—during the production of music recordings; film, television, and radio productions; and other mediums that require sound recording. Recording engineers monitor and operate electronic and computer consoles to make necessary adjustments, and solve technical problems as they occur during a recording session. They assure that the equipment is in optimal working order and obtain any additional equipment necessary for the recording. According to the U.S. Department of Labor, in May 2014, there were approximately 117,200 broadcast and sound engineering technicians employed in the United States.",
+       "minimum_education_level":"Some Postsecondary Training"
+    },
+    {
+       "job_title":"Audit and Assurance Accountants",
+       "salary":"$25,000 to $100,000",
+       "job_description":"Audit and assurance accountants are hired by companies to review their financial systems to assure their records are accurate and honest, and to assess and identify where financial risks may exist. Some companies hire these accountants for independent reviews while others may be legally obligated to have audit and assurance accounting work conducted. Audit and assurance accountants work for a wide variety of employers, from international consumer corporations and global public-sector organizations to local accounting firms. There were more than 1.2 million accountants and auditors employed in the United States in May 2016, according to the Bureau of Labor Statistics.",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Automatic Teller Machine Servicers",
+       "salary":"Below $25,000 to $75,000",
+       "job_description":"Automatic (or automated) teller machine (ATM) servicers maintain and repair the ATMs at banks, grocery stores, convenience stores, gas stations, and other locations. ATM servicers are also called ATM network specialists, ATM field service technicians, and ATM technicians. There are approximately\\xa0102,170 computer, automated teller, and office machine repairers in the United States.",
+       "minimum_education_level":"Some Postsecondary Training"
+    },
+    {
+       "job_title":"Automobile Collision Repairers",
+       "salary":"Below $25,000 to $75,000",
+       "job_description":"Automobile collision repairers, also known as collision repair technicians, repair, replace, and repaint damaged body parts of automobiles, buses, and light trucks. They use hand tools and power tools to straighten bent frames and body sections, replace badly damaged parts, smooth out minor dents and creases, remove rust, fill small holes or dents, and repaint surfaces damaged by accident or wear. Some repairers also give repair estimates. According to the U.S. Department of Labor, in May 2016, there were approximately\\xa0143,940 automotive body and related repairers working in the United States, plus nearly\\xa018,610 automotive glass installers and repairers and\\xa0647,380 automotive service technicians and mechanics.",
+       "minimum_education_level":"Some Postsecondary Training"
+    },
+    {
+       "job_title":"Automobile Sales Workers",
+       "salary":"Below $25,000 to $100,000",
+       "job_description":"Automobile sales workers inform customers about new or used automobiles, and they prepare payment, financing, and insurance papers for customers who have purchased a vehicle. It is their job to persuade the customer that the product they are selling is the best choice. They attract new customers by mail, telephone, e-mail, or through personal contacts. To stay informed about their products, sales workers regularly attend training sessions about the vehicles they sell. The U.S. Department of Labor reports that there are approximately 4.9 million retail sales workers employed in the United States, of which 11 percent are motor vehicle and parts dealers.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Automobile Service Technicians",
+       "salary":"Below $25,000 to $100,000+",
+       "job_description":"Automobile service technicians, also known as automobile mechanics, maintain and repair cars, vans, small trucks, and other vehicles. Using both hand tools and specialized diagnostic test equipment, they pinpoint problems and make the necessary repairs or adjustments. In addition to performing complex and difficult repairs, technicians perform a number of routine maintenance procedures, such as oil changes, tire rotation, and battery replacement. Technicians interact frequently with customers to explain repair procedures and discuss maintenance needs. Approximately\\xa0647,380 automotive service technicians and mechanics work in the United States.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Automotive Dealership Owners and Sales Managers",
+       "salary":"$50,000 to $100,000+",
+       "job_description":"Automotive dealership owners are proprietors of retail businesses that sell cars exclusively from one or two manufacturers. Most dealerships are independently or family-owned franchises of an automotive manufacturer, such as Ford Motor Company or General Motors. In addition to retail services, dealerships provide maintenance services, repair services, and financing. Sales managers coordinate and oversee the performance of sales staff so they meet monthly sales quotas set by the dealership. Approximately 25,000 sales managers are employed at automobile dealerships in the United States.",
+       "minimum_education_level":"Some Postsecondary Training"
+    },
+    {
+       "job_title":"Automotive Designers",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"Automotive designers, also known as automotive stylists, are specialized industrial designers who combine their technical knowledge of mechanics, production, and materials with artistic talent to improve the style, appearance, and ergonomic and aerodynamic design of automobiles. They work full time at automobile manufacturers, or may work as consultants. Approximately 38,400 industrial designers, including automotive designers, are employed in the United States.",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Automotive Engineering Technicians",
+       "salary":"$25,000 to $100,000",
+       "job_description":"Automotive engineering technicians help automotive engineers determine automotive performance and efficiency by conducting tests and studying and collecting data on vehicles and vehicle parts and systems. They may provide assistance in researching and testing the vehicle's engine design, aerodynamics, performance and fuel efficiency, safety features, ergonomics, and more. There are approximately 48,000 automotive engineering technicians employed in the United States, according to the Occupational Information Network.",
+       "minimum_education_level":"Associate's Degree"
+    },
+    {
+       "job_title":"Automotive Engineers",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"Automotive engineers are employed by car and truck manufacturers as well as parts suppliers to design and build entire vehicles or individual parts or systems. They may work on the vehicle's engine design, aerodynamics, performance and fuel efficiency, safety features, ergonomics, and more. Approximately\\xa0256,550 industrial engineers are employed in the United States, and about 3 percent work in the motor vehicle parts manufacturing sector.Automotive technicians\\xa0are skilled workers who are employed by car and truck manufacturers as well as parts suppliers to help\\xa0automotive engineers\\xa0utilize design concepts to build and enhance the operation of entire vehicles or individual automotive parts or systems. They also work on the vehicle's engine design, aerodynamics, performance and fuel efficiency, safety features, ergonomics, and other aspects of a vehicle's operation.",
+       "minimum_education_level":"Some Postsecondary Training"
+    },
+    {
+       "job_title":"Automotive Industry Workers",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"Automotive industry workers are the people who work in the parts production and assembly plants of automobile manufacturers. Their labor involves work from the smallest part to the completed automobiles. Automotive industry workers read specifications, design parts, build, maintain, and operate machinery and tools used to produce parts, and assemble the automobiles.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Automotive Technology Teachers",
+       "salary":"$25,000 to $100,000",
+       "job_description":"Automotive technology teachers instruct students regarding automotive-related subjects at high schools and colleges and universities. They lecture classes, conduct hands-on instruction in repair shops and laboratories, and create and grade examinations. They also may conduct research, write for publications, and aid in administration.",
+       "minimum_education_level":"Associate's Degree"
+    },
+    {
+       "job_title":"Aviation Safety Inspectors",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"The regulations of the Federal Aviation Administration (FAA) are enforced by aviation safety inspectors who usually specialize in general aviation or commercial aircraft. They inspect maintenance, manufacturing, repair, and operations procedures and also certify pilots, flight instructors, flight examiners, repair facilities, and aviation schools. They are responsible for the quality and safety of aircraft equipment and personnel. Aviation safety inspectors are classified under the general heading of transportation inspectors. According to the Office of the Inspector General, the FAA employs approximately 4,000 aviation safety inspectors.",
+       "minimum_education_level":"Some Postsecondary Training"
+    },
+    {
+       "job_title":"Avionics Engineers and Technicians",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"Avionics (from the words aviation and electronics) is the application of electronics to the operation of aircraft, spacecraft, and missiles. Avionics engineers conduct research and solve developmental problems associated with aviation, such as instrument landing systems and other safety instruments for aircraft or space vehicles. Avionics engineers are a subspecialty of the field of aerospace engineering. According to the U.S. Department of Labor, in May 2016 there were approximately\\xa068,510 aerospace engineers employed in the United States.Avionics technicians inspect, test, adjust, and repair the electronic components of aircraft communications, navigation, and flight-control systems and compile complete maintenance-and-overhaul records for the work they do. Avionics technicians also calibrate and adjust the frequencies of communications apparatus when it is installed and perform periodic checks on those frequency settings. According to the U.S. Department of Labor, in May 2016 avionics technicians held about 17,330 jobs.",
+       "minimum_education_level":"Some Postsecondary Training"
+    },
+    {
+       "job_title":"Ayurvedic Doctors and Practitioners",
+       "salary":"Below $25,000 to $100,000+",
+       "job_description":"Ayurvedic doctors and practitioners use theories and techniques developed thousands of years ago in India to bring people into physical, mental, emotional, and spiritual balance, thereby maintaining health, curing diseases, and promoting happiness and fulfillment. In the West, where Ayurveda is not an officially accepted and licensed form of medicine, only licensed medical doctors who are also thoroughly trained in Ayurveda can legally practice Ayurvedic medicine. These individuals are referred to as Ayurvedic doctors.Licensed practitioners of paramedical professions, such as nutritionists, psychologists, naturopaths, massage therapists, and acupuncturists, may, if they are also trained in Ayurveda and use Ayurvedic techniques in their professional work, be called Ayurvedic practitioners. Any non-M.D. who practices the full range of Ayurvedic medicine in the West, however, is seen as practicing medicine without a license, which is illegal.",
+       "minimum_education_level":"Medical Degree"
+    },
+    {
+       "job_title":"Baggage Porters and Bellhops",
+       "salary":"Below $25,000 to $50,000",
+       "job_description":"Baggage porters and bellhops, known at some hotels as uniformed service attendants, bell attendants, or guest services attendants, are considered front-of-the-house jobs in the hotel industry. They are responsible for carrying guests' luggage to their room upon arrival and back to the lobby when they depart. At times they may be asked to run errands or deliver items for guests. Though bellhops work from the bellstand—a desk or podium located in the hotel lobby—their work takes them all over the hotel property. Bellhops are also employed at airports, bus terminals, train stations, and just about any place of travel. According to the U.S. Department of Labor, in May 2014 there were about 44,000 baggage porters and bellhops employed at hotels and transportation terminals in the United States.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Bail Bondsmen",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"When someone is arrested for a crime, a bail bondsman (also known as a bail agent or bail bonding agent) pays the bail so that person can go free until it is time for the trial. The bondsman charges a fee of 10 to 15 percent of the total cash bond assigned by the court. If the person doesn't appear for trial, the bondsman must either find the person or hire someone, known as a bail enforcement agent, fugitive recovery agent, or bounty hunter, to find the person and bring him or her back. Because the work bondsmen do relies on criminal activities, larger cities have the greatest need for bondsmen. Approximately 15,500 bail bondsmen are members of Professional Bail Agents of the United States.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Bailiffs",
+       "salary":"Below $25,000 to $75,000",
+       "job_description":"Bailiffs, also known as marshals or court officers, handle anything and everything that goes on in and is associated with a courtroom. From keeping the room secure to providing food and housing for sequestered juries, the bailiff is responsible for managing the court's business. Bailiffs also serve legal papers to individuals and businesses as ordered by the court. Although the majority of bailiffs work for the court system, some bailiffs are more like process servers because they work independently and own their own businesses. There are approximately 16,360 bailiffs employed in the United States.",
+       "minimum_education_level":"Some Postsecondary Training"
+    },
+    {
+       "job_title":"Bakery Workers",
+       "salary":"Below $25,000 to $50,000",
+       "job_description":"Bakery workers are the many different professionals who work to produce bread, cakes, biscuits, pies, pastries, crackers, and other baked goods in commercial, institutional, and industrial bakeries. There are approximately 165,270 bakers employed in the United States.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Bank Branch Managers",
+       "salary":"$25,000 to $75,000",
+       "job_description":"Bank branch managers oversee bank branches, their various departments (e.g., customer service, loans, accounting, etc.), and their employees. In most small or medium-size commercial banks, branch managers often have a responsibility for selling the bank’s financial products. branch managers are also known as bank branch supervisors.",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Bank Examiners",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"Bank examiners, also known as financial examiners, investigate financial institutions to ensure their safety and soundness and to enforce federal and state laws. They arrange audits, review policies and procedures, study documents, and interview managers and employees. They prepare detailed reports that can be used to strengthen banks.A bank examiner's fundamental duty is to make sure people do not lose the money they have entrusted to banks. Bank examiners protect account holders. They also protect the federal and state governments that are responsible for insuring financial institutions. There are approximately 30,680 financial examiners employed in the United States.",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Bankruptcy Lawyers",
+       "salary":"$50,000 to $100,000+",
+       "job_description":"Bankruptcy is a legal process in which a person, business, or other organization receives permission to not pay certain debts or to pay a lesser amount than what is owed. Bankruptcy lawyers assist their clients in obtaining protection from creditors under existing bankruptcy laws and help them with financial reorganization and debt repayment.\\xa0",
+       "minimum_education_level":"Law Degree"
+    },
+    {
+       "job_title":"Barbers",
+       "salary":"Below $25,000 to $50,000",
+       "job_description":"Barbers shampoo, cut, trim, and style hair and shave, trim, and shape beards. While barbers are formally trained to perform other services such as coloring and perming hair, most barbers in barbershops do not offer these services. Barbers may also call themselves barber-stylists, and a few may even refer to themselves as tonsorial artists, an old-fashioned term that is derived from a Latin word meaning \"to shear.\" There are approximately 14,140 barbers in the United States.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Baristas",
+       "salary":"Below $25,000 to $50,000",
+       "job_description":"Baristas prepare and serve coffee, espresso, and other types of espresso-based drinks. They work in coffee shops, cafes, and restaurants. Depending on their work environment, they may take customers' orders, prepare and serve the beverages to customers, and conduct payment transactions. There are more than 4.7 million food and beverage serving and related workers employed in the United States.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Bartenders",
+       "salary":"Below $25,000 to $50,000",
+       "job_description":"Bartenders mix and dispense alcoholic and nonalcoholic drinks in hotels, restaurants, cocktail lounges, and taverns. Besides mixing ingredients to prepare cocktails and other drinks, they serve wine and beer, collect payment from customers, order supplies, and arrange displays of bar stock and glassware. Bartenders, or their assistants, may also prepare fruit for garnishes, serve simple appetizers, replenish chips and pretzels, wash glasses, and clean the bar area. Approximately 538,220 bartenders work in the United States.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Bed and Breakfast Owners",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"A bed and breakfast is an inn, or small hotel, of about four to 20 rooms (although some bed and breakfasts have more rooms). Bed and breakfast owners either single-handedly, or with the help of spouse and family, provide guests with a comfortable, home-like environment. These workers, sometimes called innkeepers or abbreviated to B&B owners, clean rooms, assign rooms to guests, keep books and records, and provide some meals. They also actively interact with guests and provide information about tours, museums, restaurants, theaters, and recreational areas. According to the Professional Association of Innkeepers International (PAII), there are approximately 17,000 bed and breakfasts in the United States. Though a bed and breakfast may be located in the very heart of a large city, most are located in small towns, the country, and along oceans, lakes, or rivers.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Beekeepers",
+       "salary":"Below $25,000",
+       "job_description":"Beekeepers, also known as apiarists, care for and raise honeybees for commercial and agricultural purposes, such as honey production and crop pollination. Their duties might include assembling beehives and other equipment, buying and selling bees, establishing settlements close to pollination-dependent crops, transporting wild beehives to a central location, raising queen bees, and harvesting and selling honey. Beekeepers may work on farms or small plots of land to raise bees to assist in the production of grain and other agricultural crops. It is said that one-third of food production in the United States depends on bees. Beekeeping may be a full-time job, a \"sideline\" job, or a hobby. Beekeepers usually work alone or as a member of a small team.",
+       "minimum_education_level":"Required"
+    },
+    {
+       "job_title":"Beverage Industry Workers",
+       "salary":"Below $25,000 to $100,000",
+       "job_description":"Beverage industry workers are located throughout the United States, manufacturing and bottling (or otherwise packaging) soft drinks, including carbonated beverages, coffee, tea, juices, and mineral and spring waters.In addition to major locations where manufacturing, research and development, and administrative work are performed, many companies have smaller sites for bottling and distribution. Thus there are a variety of sites for larger companies as well as small, local manufacturers.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Bicycle Mechanics",
+       "salary":"Below $25,000 to $50,000",
+       "job_description":"Bicycle mechanics use hand and power tools to repair, service, and assemble all types of bicycles. They may do routine maintenance and tune-ups, or completely rebuild damaged or old bicycles. Bike manufacturers, dealers, retail bike and sporting goods stores, and general merchandise stores may employ bicycle mechanics. The popularity of bicycles and the fact that many riders lack the time to repair their bikes makes for a steady employment outlook for bicycle mechanics. Approximately 10,520 bicycle mechanics work in the United States.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Billing Clerks",
+       "salary":"Below $25,000 to $50,000",
+       "job_description":"Billing clerks produce and process bills and collect payments from customers. They enter transactions in business ledgers or spreadsheets, write and send invoices, and verify purchase orders. They post items in accounts payable or receivable, calculate customers' charges, and verify the company's rates for certain products and services. Billing clerks must make sure that all entries are accurate and up to date. At the end of the fiscal year, they may work with auditors to clarify billing procedures and answer questions about specific accounts. There are approximately 490,860 billing clerks employed in the United States.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Bindery Workers",
+       "salary":"Below $25,000 to $50,000",
+       "job_description":"Binding, or finishing, is the final step in the printing process. Bindery workers take the printed pages that go into books, magazines, pamphlets, catalogs, and other materials and fold, cut, sew, staple, stitch, and/or glue them together to produce the finished product.Bindery workers typically work in commercial printing plants or specialized bindery shops. Some bindery workers perform highly specialized tasks that require a certain amount of training; other bindery workers perform simple, repetitive tasks that are easily mastered. Approximately 51,430 people are employed in print binding and finishing work in the United States.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Biochemical Engineers",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"Biochemical engineers\\xa0conduct research on various biological substances to develop products such as plastics, oils, paints, detergents, pharmaceuticals, agricultural chemicals, and foods for public consumption. The products they help to develop consist of a combination of lab-made and organic materials. They conduct lab experiments to study biological substances, their environments, and aim to create new compounds that are safe to use, economical, and beneficial to society. The profession that is closest to biochemical engineers that the U.S. Department of Labor provides data for is chemical engineers, and in May 2016, approximately 31,990 chemical engineers worked in the United States.",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Biochemists",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"Biochemists explore the tiny world of the cell, study how illnesses develop, and search for ways to improve life on earth. Through studying the chemical makeup of living organisms, biochemists strive to understand the dynamics of life, from the secrets of cell-to-cell communication to the chemical changes in our brains that give us memories. Biochemists examine the chemical combinations and reactions involved in such functions as growth, metabolism, reproduction, and heredity. They also study the effect of the environment on living tissue. If cancer is to be cured, the earth's pollution cleaned up, or the aging process slowed, it will be biochemists and molecular biologists who will lead the way. There are approximately 31,350 biochemists and biophysicists employed in the United States. (Biophysicists examine the chemical combinations and reactions involved in such functions as metabolism and heredity.)",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Bioenergy/Biofuels Workers",
+       "salary":"Below $25,000 to $100,000+",
+       "job_description":"Energy that is derived from biomass (organic material such as wood, plants, or animal wastes) is known as bioenergy. Bioenergy can be used to generate electricity and produce heat. It can also be used to produce biofuels, which are used in place of fossil fuels to power vehicles and for small heating applications. A wide range of jobs are available in the bioenergy and biofuels industry for people with various backgrounds and interests, including scientists, biologists, researchers and research technicians, plant managers, product managers, and sales engineers.",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Biofeedback Therapists",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"Biofeedback training is a process that helps patients gain control of their responses to stress, anxiety, physical strain, and emotional stimuli. Special instruments monitor a variety of physiological conditions, including heart rate, skin temperature, muscle tension, and blood pressure. Biofeedback therapists assist patients in interpreting the information gathered through monitoring. They help them learn to control individual body functions and reactions in ways that can decrease stress and alleviate the effects of a wide range of disorders, such as migraine headaches, gastrointestinal concerns, and epilepsy.",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Biofuels Processing Technicians",
+       "salary":"$25,000 to $100,000",
+       "job_description":"Biofuels processing technicians\\xa0are responsible for the process of converting organic material, such as wood, plants, vegetable oils, grains, or animal wastes, into biofuels to generate electricity and produce heat. Biofuels replace fossil fuels to generate power for vehicles and for small heating applications. Biofuels processing technicians operate biofuels production equipment, monitor processes, collect samples and perform laboratory tests on biofuels quality, and record data. Many work for energy companies and processing plants that convert feedstock into biofuels. There are approximately 11,970 plant and systems operators, including biofuels processing technicians, employed in the United States.",
+       "minimum_education_level":"Associate's Degree"
+    },
+    {
+       "job_title":"Biofuels Production Managers",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"Biofuels production managers manage power plants that produce biofuel, such as ethanol or biodiesel. Biofuels are created from organic materials and are used in place of fossil fuels to power vehicles and generate heat. Production managers oversee the production operations and production staff, making sure that equipment and production processes follow safety rules. They also ensure operation efficiency and product quality. There were approximately 168,400 industrial production managers employed in the United States in May 2016, according to the U.S. Department of Labor.",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Biofuels/Biodiesel Technology and Product Development Managers",
+       "salary":"$75,000 to $100,000+",
+       "job_description":"Biofuels and biodiesel are created from organic materials, such as plants, wood, or animal fats, and are used to replace fossil fuels for powering vehicles and for small heating applications. Biofuels/biodiesel technology and product development managers\\xa0oversee biofuels and biodiesel development projects. They design or conduct research projects, analyze data, provide guidance to technical teams, and propose new products and processes based on test results. Approximately 178,390 architectural and engineering managers, including biofuels/biodiesel development managers, work in the United States, according to the Department of Labor.",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Bioinformatics Specialists",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"Bioinformatics specialists collect, manage, and study biological (especially DNA) and biochemical data at the molecular level by using computer software and hardware. They also design computer databases and develop complicated mathematical formulas called algorithms to study and manage data. Bioinformatics specialists are also known as biostatisticians, computational biologists, bioinformaticists, bioinformatics scientists, and biometricians.",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Biologists",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"Biologists, also known as life scientists\\xa0and biological scientists, study the origin, development, anatomy, function, distribution, and other basic principles of living organisms. They are concerned with the nature of life itself in humans, microorganisms, plants, and animals, and with the relationship of each organism to its environment. Biologists perform research in many specialties that advance the fields of medicine, agriculture, and industry. Approximately 32,320 biological scientists (all other not specified by DOL), 20,670 microbiologists, and 18,970 zoologists and wildlife biologists are employed in the United States.",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Biomass Plant Technicians",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"Biomass is renewable energy that is created from organic matter or from animal wastes and fats. A major benefit of biomass is that it does not depend on extracting materials that are in limited supplies and cannot be renewed, such as oil, natural gas, coal, or nuclear energy. Biomass plant technicians\\xa0control and monitor biomass-fueled equipment and systems. They inspect biomass power plants and operating equipment and record and report their findings. They read meters, instruments, and gauges, and use analytical and scientific software to conduct their work. According to the Department of Labor, there were approximately 11,900 plant and systems operators, including biomass plant technicians, employed in the United States in May 2016.",
+       "minimum_education_level":"Associate's Degree"
+    },
+    {
+       "job_title":"Biomass Power Plant Managers",
+       "salary":"$50,000 to $100,000+",
+       "job_description":"Biomass power plant managers oversee the operations of biomass power plants or substations. They work at biomass power facilities that generate power from biomass materials like wood, paper sludge, coal, or other waste or refuse. They supervise biomass power plant operations or maintenance staff, making sure maintenance activities are followed according to regulations. They monitor and adjust equipment to ensure appropriate production levels are met and comply with environmental standards. The Department of Labor does not yet have data specifically for biomass power plant managers, but does provide information on industrial production managers, who share many of the same responsibilities as those of biomass power plant managers. In May 2016, there were 168,400 industrial production managers working in the United States.",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Biomedical Engineers",
+       "salary":"$50,000 to $100,000+",
+       "job_description":"Biomedical engineers are highly trained scientists who use engineering and life science principles to research biological aspects of animal and human life. They develop new theories, and they modify, test, and prove existing theories on life systems. They design health care instruments and devices or apply engineering principles to the study of human systems. There are approximately 19,890 biomedical engineers employed in the United States.",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Biomedical Equipment Technicians",
+       "salary":"$25,000 to $75,000",
+       "job_description":"Biomedical equipment technicians, also known as medical equipment repairers, handle the complex medical equipment and instruments found in hospitals, clinics, and research facilities. This equipment is used for medical therapy and diagnosis and includes heart-lung machines, artificial kidney machines, patient monitors, chemical analyzers, and other electrical, electronic, mechanical, or pneumatic devices.Technicians' main duties are to inspect, maintain, repair, and install this equipment. They disassemble equipment to locate malfunctioning components, repair or replace defective parts, and reassemble the equipment, adjusting and calibrating it to ensure that it operates according to manufacturers' specifications. Other duties of biomedical equipment technicians include modifying equipment according to the directions of medical or supervisory personnel, arranging with equipment manufacturers for necessary equipment repair, and safety-testing equipment to ensure that patients, equipment operators, and other staff members are safe from electrical or mechanical hazards. Biomedical equipment technicians work with hand tools, power tools, measuring devices, and manufacturers' manuals.Technicians may work for equipment manufacturers as salespeople or as service technicians, or for a health care facility specializing in the repair or maintenance of specific equipment, such as that used in radiology, nuclear medicine, or patient monitoring. Approximately 40,090 people work as medical equipment repairers in the United States.",
+       "minimum_education_level":"Associate's Degree"
+    },
+    {
+       "job_title":"Biometrics Systems Specialists",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"Biometrics are distinctive physical or behavioral characteristics that are used to identify individuals. Common biometrics include fingerprints, palms, eyes, and faces. Biometric systems are a set of hardware and software that collect, process, and assess these characteristics and compare them against existing records to create a match. Biometric systems specialists design, build, and repair these systems.",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Biophysicists",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"The science of biophysics is the study of biological systems and biological occurrences using the principles of physics and chemistry, along with mathematical methods. Scientists working in this field are referred to as biophysicists. There are approximately 34,100 biophysicists and biochemists employed in the United States.",
+       "minimum_education_level":"Master's Degree"
+    },
+    {
+       "job_title":"Biotechnology Patent Lawyers",
+       "salary":"$50,000 to $100,000+",
+       "job_description":"Biotechnology patent lawyers are lawyers who specialize in helping biotechnology researchers, scientists, and research corporations with all legal aspects of their biotechnology patents. They assist clients in applying for patents and enforcing those patents.",
+       "minimum_education_level":"Doctorate"
+    },
+    {
+       "job_title":"Biotechnology Production Workers",
+       "salary":"Below $25,000 to $75,000",
+       "job_description":"Biotechnology production workers, also known as biotechnology manufacturing technicians, are involved in many aspects of the manufacture of biotechnology products such as biopharmaceuticals and biofuels. Biotechnology production supervisors and managers oversee production workers.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Biotechnology Research Assistants",
+       "salary":"Below $25,000 to $75,000",
+       "job_description":"Biotechnology research assistants work to help scientists, engineers, professors, and a wide variety of other professionals get their jobs done. They are information specialists who find the facts, data, and statistics that their employers need, leaving the employers free to pursue the larger task at hand. The U.S. Department of Labor reports that there are 79,000 biological technicians (a job that is similar to biotechnology research assistants) employed in the United States.",
+       "minimum_education_level":"Associate's Degree"
+    },
+    {
+       "job_title":"Bloggers",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"A Web log, more commonly known as a blog, is a Web site that is written and maintained by an individual or group of bloggers. Blogs take several formats, including diary, news, commentary, or informational. Text, images, links to other Web sites, art, videos, and music are often compiled, formatted, and uploaded onto a blog’s Web site, which is hosted by a dedicated hosting service, or run independently using blog software. Bloggers specialize in writing about a particular topic, point of view, or interest.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Bodyguards",
+       "salary":"Below $25,000 to $100,000+",
+       "job_description":"Bodyguards, sometimes called personal protection officers or personal security workers, protect their clients from injury, kidnapping, harassment, or other types of harm. They may guard a politician during a political campaign, a business executive on a worldwide trip, a movie star going to the Academy Awards, or anyone else who wants personal protection. Bodyguards may be employed by a government agency, by a private security firm, or directly by an individual.Bodyguards work in potentially dangerous situations and must be trained to anticipate and respond to emergencies. They may carry weapons. Bodyguards need to combine the ability to react quickly and expertly in a tense or dangerous situation with the ability to predict, prevent, or avoid many of these situations.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Boilermakers and Mechanics",
+       "salary":"$25,000 to $100,000",
+       "job_description":"Boilermakers and boilermaker mechanics construct, assemble, and repair boilers, vats, tanks, and other large metal vessels that are designed to hold liquids and gases. Following blueprints, they lay out, cut, fit, bolt, weld, and rivet together heavy metal plates, boiler tubes, and castings. Boilermaker mechanics maintain and repair boilers and other vessels made by boilermakers. There are approximately 17,210 boilermakers working in the United States.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Book Conservators",
+       "salary":"Below $25,000 to $75,000",
+       "job_description":"Book conservators treat the bindings and pages of books and other objects to help preserve original materials for future use. Their work often includes removing a book block from its binding, and then sewing, measuring, gluing, rebinding, and using special chemical treatments to maintain the integrity of the item. Most conservators work in libraries, in museums, or for special conservation centers.",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Book Editors",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"Book editors acquire and prepare written material for publication in book form. Such formats include trade books (fiction and nonfiction), textbooks, and technical and professional books (which include reference books). A book editor's duties may include contracting for and evaluating a manuscript, accepting or rejecting it, rewriting, correcting spelling and grammar, researching, and fact checking. Book editors may also work directly with printers in arranging for proofs and with artists and designers in arranging for illustrations and determining the physical specifications of the book.Approximately 50,550 editors work for book, newspaper, and magazine publishers in the United States. Book editors are employed at small and large publishing houses, book packagers (companies that subcontract book production for larger publishing houses), associations, and government agencies.",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Bookkeeping and Accounting Clerks",
+       "salary":"Below $25,000 to $75,000",
+       "job_description":"Bookkeeping and accounting clerks record financial transactions for government, business, and other organizations. They compute, classify, record, and verify numerical data in order to develop and maintain accurate financial records. There are nearly 1.6 million bookkeeping, accounting, and auditing clerks employed in the United States.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Border Patrol Agents",
+       "salary":"$25,000 to $100,000",
+       "job_description":"Border patrol agents, also known as border patrol officers, patrol 5,000 miles of border between the United States and Canada and 1,900 miles between the United States and Mexico, as well as the coastal areas of the Gulf of Mexico and Florida. It is their duty to enforce laws regulating the entry of aliens and products into the United States. They are employed by U.S. Customs and Border Protection (CBP), a division of the Department of Homeland Security.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Botanists",
+       "salary":"$25,000 to $100,000",
+       "job_description":"Botanists study all different aspects of plant life, from cellular structure to reproduction, to how plants are distributed, to how rainfall or other conditions affect them, and more. Botany is an integral part of modern science and industry, with diverse applications in agriculture, agronomy (soil and crop science), conservation, manufacturing, forestry, horticulture, and other areas. Botanists work for the government, in research and teaching institutions, and for private industry. The primary task of botanists is research and applied research. Nonresearch jobs in testing and inspection, or as lab technicians/technical assistants, also are available. Botany is an extremely diverse field with many specialties. According to the U.S. Department of Labor, there are approximately 14,610 plant and soil scientists, including botanists, employed in the United States.",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Bounty Hunters",
+       "salary":"$25,000 to $100,000",
+       "job_description":"Bounty hunters, also known as bail enforcement agents or fugitive recovery agents, track down and return individuals who are fugitives from justice. People who get arrested are often given the opportunity to post bail money so they can go free while waiting for a hearing or trial. When these people post the bail money, they are promising that they will return on the assigned court date. If they do not return on that date, they lose their bail money (or the bail bondsman loses his) and become fugitives from justice. Bounty hunters spend time researching and interviewing to get leads on the person they are tracking. Bounty hunters working in the United States account for thousands of arrests annually.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Brewers",
+       "salary":"Below $25,000 to $100,000+",
+       "job_description":"Brewers oversee the production of many different styles of beer. They develop recipes that consist of various types and blends of the four basic ingredients: barley malt, hops, yeast, and water (and occasionally fruits, wheat, rice, and corn). Brewers add these ingredients into brewing vessels in accordance with the style of beer they are brewing and their own recipe. Brewers also tend to the brewing equipment. They monitor gauges and meters, as well as turn valves, open hatches, and occasionally stir. According to Brewers Association, as of March 2015, craft brewers provided an estimated 122,000 jobs (including serving jobs in brewpubs) in the United States.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Bricklayers and Stonemasons",
+       "salary":"Below $25,000 to $100,000",
+       "job_description":"Bricklayers\\xa0(also known as brickmasons\\xa0and blockmasons)\\xa0are skilled workers who construct and repair walls, partitions, floors, arches, fireplaces, chimneys, and other structures from brick, concrete block, gypsum block, and precast panels made of terra cotta, structural tile, and other masonry materials. Stonemasons build stone walls, floors, piers, and other structures, and they set the decorative stone exteriors of structures, such as churches, hotels, and public buildings. Approximately 58,730 brickmasons and blockmasons and 10,410 stonemasons work in the United States.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Broadcast Engineers",
+       "salary":"Below $25,000 to $100,000",
+       "job_description":"Broadcast engineers, also referred to as broadcast technicians or broadcast operators, operate and maintain the electronic equipment used to record and transmit the audio for radio signals and the audio and visual images for television signals to the public. They may work in a broadcasting station or assist in broadcasting directly from an outside site as a field technician. Approximately 27,800 broadcast engineers work in the United States.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Brownfield Redevelopment Specialists and Site Managers",
+       "salary":"$75,000 to $100,000+",
+       "job_description":"Brownfield redevelopment specialists and site managers\\xa0manage and oversee the cleanup and redevelopment of contaminated properties for commercial, residential, or other uses. They inspect sites, identify environmental damages and contaminants, and make recommendations for remediation. There are approximately 986,000 managers, including brownfield redevelopment specialists and site managers, employed in the United States, according to the Department of Labor.",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Buddhist Priests and Contemplatives",
+       "salary":"Below $25,000 to $75,000",
+       "job_description":"Buddhist priests lead worship services, perform ceremonies and rituals, and officiate at festivals in Buddhist temples and in the homes of parishioners. Most priests can marry and have families. The majority of Buddhist priests and contemplatives are male, but some are female. Priests may also be known as ministers—especially in the United States. Buddhist contemplatives live their lives within the boundaries of their monastery and engage in meditation and a form of prayer.\\xa0(The term “monastery” is used in this article to refer to structures that house—separately—both male and female contemplatives.) In some branches of Buddhism, contemplatives can marry and have children. Some even live outside the monastery and have jobs. Male contemplatives are also known as monks, monastics, brothers, and bhikkhus. Female contemplatives may also be known as bhikkhunis, monastics, sisters, and nuns.",
+       "minimum_education_level":"Some Postsecondary Training"
+    },
+    {
+       "job_title":"Business Continuity Planners",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"Business continuity is when business continues as normal despite circumstances that may otherwise be disruptive. According to the Business Continuity Institute, business continuity management is the process of identifying \"potential threats to an organization and the impacts to business operations those threats, if realized, might cause, and which provides a framework for building organizational resilience\" to effectively respond by following plans and strategies. Business continuity planners create and implement strategies and plans for disaster recovery and business continuity. They coordinate mock disaster exercises regularly to improve on the plans and procedures. There are approximately 9,570 emergency management directors and 998,000 business operations specialists employed in the United States, according to the Department of Labor.",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Business Development Managers and Directors",
+       "salary":"$50,000 to $100,000+",
+       "job_description":"Business development directors and managers use their analytical, sales, marketing, research, and communication skills to identify and generate business opportunities and maintain relationships with current and potential partners. They are also known as deal generation professionals.",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Business Intelligence Analysts",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"Business intelligence analysts study data that companies have collected and create reports that help senior management make decisions. They study business patterns and trends, and make recommendations based on their findings. They work closely with internal departments as well as external sources in gathering data and communicating the status of their work. Business intelligence analysts use data technology and online analytical processing tools in their work. There are approximately 637,690 management analysts and 109,150 operations research analysts employed in the United States, according to the Department of Labor.",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Business Managers",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"Business managers plan, organize, direct, and coordinate the operations of firms in business and industry. They may oversee an entire company, a geographical territory of a company's operations, or a specific department within a company. There are nearly 2 million managerial jobs in the United States.",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Buyers",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"There are two main types of buyers. Wholesale buyers purchase merchandise directly from manufacturers and resell it to retail firms, commercial establishments, and other institutions. Retail buyers purchase goods from wholesalers (and occasionally from manufacturers) for resale to the general public. In either case, buyers must understand their customers' needs and be able to purchase goods at an appropriate price and in sufficient quantity. Sometimes a buyer is referred to by the type of merchandise purchased—for example, jewelry buyer or toy buyer. According to the U.S. Department of Labor, as of May 2015 there were approximately 112,200 wholesale and retail buyers employed in the private sector across the United States.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Cable Television Technicians",
+       "salary":"$25,000 to $100,000",
+       "job_description":"Cable television technicians install, inspect, maintain, and repair antennas, cables, and amplifying equipment used in cable television transmission. As of May 2015, there are approximately 219,100 people working as telecommunications equipment installers and repairers, including cable television equipment servicers, according to the U.S. Department of Labor.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Cage Cashiers",
+       "salary":"Below $25,000 to $75,000",
+       "job_description":"Cage cashiers, also called cashiers, casino cashiers, or casino cage cashiers work in the cage area of a casino, where money, casino chips, credit chips, and other paperwork are circulated. They sell gambling chips, tokens, or tickets to casino patrons, pay out jackpots, and manage credit applications. Cage cashiers are an essential part of casino customer service.\\xa0",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Camera Operators",
+       "salary":"Below $25,000 to $100,000+",
+       "job_description":"Camera operators use motion picture cameras and equipment to photograph subjects or material for movies, television programs, or commercials. They may use 35-millimeter or 16-millimeter cameras or camcorders and a variety of films, lenses, tripods, and filters in their work. Many camera operators today use digital cameras, which provide the operator with a greater range of camera angles. Camera operators' instructions often come from cinematographers or directors of photography. According to the U.S. Department of Labor, as of May 2015, approximately 20,060 camera operators worked in the United States.",
+       "minimum_education_level":"Some Postsecondary Training"
+    },
+    {
+       "job_title":"Campaign Workers",
+       "salary":"$25,000 to $100,000",
+       "job_description":"Campaign workers help candidates for government offices get elected. By calling voters, sending out fliers, advertising on TV, radio, and the Internet, and arranging for campaign appearances by the candidate, they educate the public about a candidate's strengths and concerns. Candidates for mayor, governor, Congress, president, and other local, state, and federal offices must use campaign workers and managers to handle many of the details of an election, such as budgets and expenses, fund-raising, and press relations. Campaign workers are needed all across the country, in cities large and small, to assist with primaries and elections.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Cancer Registrars",
+       "salary":"$25,000 to $100,000",
+       "job_description":"Cancer registrars are responsible for collecting, compiling and reporting full histories of cancer patients in a specific population, usually a hospital, or geographic area such as a state or country. To do so, the cancer registrar identifies, records, and maintains data regarding the symptoms, diagnosis, treatment, and the status of individuals with cancer (tumors). Cancer registrars provide information for cancer registries which track individual patients from the time of diagnoses, with lifetime follow up, in order to create data which can be analyzed to track treatment, as well as survival and outcome information, with the goal of preventing or successfully treating cancers.",
+       "minimum_education_level":"Associate's Degree"
+    },
+    {
+       "job_title":"Canning and Preserving Industry Workers",
+       "salary":"Below $25,000 to $75,000",
+       "job_description":"Canning and preserving industry workers monitor equipment and perform routine tasks in food-processing plants that can, preserve, and quick-freeze such foods as vegetables, fruits, frozen dinners, jams, jellies, preserves, pickles, and soups. They also process and preserve seafood, including shrimp, oysters, crabs, clams, and fish. The U.S. Department of Labor considers canning and preserving food industry workers to be an occupational subset of packaging and filling machine operators and tenders. As of May 2015, there are approximately 378,560 packaging and filling machine operators and tenders working in the United States with about 21,920\\xa0of these categorized workers working in the fruit and vegetable preserving and specialty food manufacturing industry.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Cantors",
+       "salary":"Below $25,000 to $100,000",
+       "job_description":"Cantors lead musical liturgies in synagogues to enhance the religious experiences of worshipers. They also perform some activities in support of the rabbi such as visiting sick congregants and training children for their Bar/Bat Mitzvah celebrations. They are professionals who have almost as much training as rabbis. Most cantors serve one of the four main types of Jewish congregations: Orthodox, Conservative, Reform, and Reconstructionist. The remaining congregations are other unaffiliated streams of Judaism.",
+       "minimum_education_level":"Some Postsecondary Training"
+    },
+    {
+       "job_title":"Cardiologists",
+       "salary":"$100,000+",
+       "job_description":"Cardiologists are physicians who practice in the subspecialty of internal medicine that concentrates on the diagnosis and treatment of heart disease. In most instances, cardiologists treat patients on a consultative basis to determine if the symptoms the patients are exhibiting are signs of heart disease. According to the State Health Facts Web site of the Kaiser Family Foundation, there are 29,649 actively practicing cardiologists in the United States.",
+       "minimum_education_level":"Medical Degree"
+    },
+    {
+       "job_title":"Cardiovascular Technologists",
+       "salary":"$25,000 to $100,000",
+       "job_description":"Cardiovascular technologists assist physicians in diagnosing and treating heart and blood vessel ailments. Depending on their specialties, they operate electrocardiograph machines, perform Holter monitor and stress testing, and assist in cardiac catheterization procedures and ultrasound testing. These tasks help the physicians diagnose heart disease and monitor progress during treatment. There are approximately 51,400 cardiovascular technologists and technicians employed in the United States.",
+       "minimum_education_level":"Some Postsecondary Training"
+    },
+    {
+       "job_title":"Career and Employment Counselors and Technicians",
+       "salary":"$25,000 to $100,000",
+       "job_description":"Career and employment counselors and technicians, who are also known as vocational counselors, provide advice to individuals or groups about occupations, careers, career decision making, career planning, and other career development–related questions or conflicts. Career guidance technicians collect pertinent information to support both the counselor and applicant during the job search. According to the U.S. Department of Labor, as of May 2016, there were approximately 253,460 educational, guidance, school, and vocational counselors employed in the United States.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Carpenters",
+       "salary":"Below $25,000 to $75,000",
+       "job_description":"Carpenters cut, shape, level, and fasten together pieces of wood and other construction materials, such as wallboard, plywood, and insulation. Many carpenters work on constructing, remodeling, or repairing houses and other kinds of buildings. Other carpenters work at construction sites where roads, bridges, docks, boats, mining tunnels, and wooden vats are built. They may specialize in building the rough framing of a structure, and thus be considered rough carpenters, or they may specialize in the finishing details of a structure, such as the trim around doors and windows, and be finish carpenters. According to the U.S. Department of Labor, approximately 639,190 carpenters work in the United States.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Cartographers",
+       "salary":"$25,000 to $100,000",
+       "job_description":"Cartographers\\xa0prepare maps, charts, and drawings from aerial photographs and survey data. They also conduct map research, developing new mapping techniques, and investigate topics such as how people use maps. They collect, evaluate, and interpret geographic information provided by geodetic surveys, aerial photographs, and satellite data. They research, study, and prepare maps and other spatial data in digital or graphic form for legal, social, political, educational, and design reasons.\\xa0Photogrammetrists are specialized mapmakers who use aerial photographs, satellite images, and light-imaging detection and ranging (LIDAR) technology to build models of the Earth’s surface and its features for the purpose of creating maps.Finally, cartographers and photogrammetrists presently work with Geographic Information Systems (GIS) to design and analyze algorithms, data structures, and user interfaces for GIS and mapping systems.\\xa0",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Cartoonists",
+       "salary":"Below $25,000 to $100,000",
+       "job_description":"Cartoonists are artists who draw still pictures to amuse, entertain, educate, and persuade people. Cartoonists draw illustrations used in marketing and advertising, newspapers and magazines, comic books, graphic novels, greeting cards, video game packaging, and more.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Cashiers",
+       "salary":"Below $25,000 to $50,000",
+       "job_description":"Cashiers are employed in many different businesses, including supermarkets, department stores, restaurants, and movie theaters. In general, they are responsible for handling money received from customers.One of the principal tasks of a cashier is operating a cash register. The cash register records all the monetary transactions going into or out of the cashier's workstation. These transactions might involve cash, credit card charges, personal checks, refunds, and exchanges. To assist in inventory control, the cash register often tallies the specific products that are sold. As of May 2015, according to the U.S. Department of Labor, more than 3.4 million cashiers are employed in the United States.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Casino Credit Managers",
+       "salary":"$25,000 to $100,000",
+       "job_description":"Casino credit managers, also referred to as credit managers, credit executives, or casino credit and collections managers are in charge of various casino credit functions. They determine if and how much credit the casino will extend to patrons. They review credit applications, create and maintain credit histories, and recommend credit limits. This is a supervisory position. Opportunities exist where ever there are casinos.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Casino Managers",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"Casino managers also referred to as managers or gaming managers are in charge of the day-to-day management of the gaming area, and overseeing the operation of the casino. They administer policies, monitor the gaming area, and assure compliance with regulatory requirements. They oversee and supervise casino personnel, handle problems on the casino floor, take care of customer complaints, and promote good customer service. This is a supervisory and management position. Opportunities exist wherever there are casinos.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Caterers",
+       "salary":"$25,000 to $100,000",
+       "job_description":"Caterers plan, coordinate, and supervise food service at parties and at other social functions. Working with their clients, they purchase appropriate supplies, plan menus, supervise food preparation, direct serving of food and refreshments, and ensure the overall smooth functioning of the event. As entrepreneurs, they are also responsible for budgeting, bookkeeping, and other administrative tasks.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Cement Masons",
+       "salary":"Below $25,000 to $75,000",
+       "job_description":"Cement masons, who usually work for contractors in the building and construction industries, apply the concrete surfaces in many different kinds of construction projects, ranging from small patios and sidewalks to highways, dams, and airport runways. Cement masons' responsibilities include building forms for holding the concrete, determining the correct mixture of ingredients, and making sure the structure is suitable to the environment. According to the U.S. Department of Labor, approximately 135,200 cement masons and concrete finishers are employed in the United States.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Ceramics Engineers",
+       "salary":"$50,000 to $100,000+",
+       "job_description":"Ceramics engineers work with nonmetallic elements such as clay and inorganic elements such as zirconia. They are part of the ceramics and glass industry, which manufactures such common items as tableware and such highly technical items as ceramic tiles for the space shuttle. These engineers perform research, design machinery and processing methods, and develop new ceramic materials and products. They work at engineering consulting firms, manufacturing plants, and commercial support facilities. There are approximately 27,040 materials engineers in the United States; ceramics engineers belong to this group.",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Chemical Engineers",
+       "salary":"$50,000 to $100,000+",
+       "job_description":"Chemical engineers take chemistry out of the laboratory and into the real world. They are involved in evaluating methods and equipment for the mass production of chemicals and other materials requiring chemical processing. They also develop products from these materials, such as plastics, metals, gasoline, detergents, pharmaceuticals, and foodstuffs. They develop or improve safe, environmentally sound processes, determine the least costly production method, and formulate the material for easy use and safe, economic transportation. According to the U.S. Department of Labor, in May 2015 there were approximately\\xa032,230 chemical engineers working in the United States.",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Chemical Technicians",
+       "salary":"$25,000 to $75,000",
+       "job_description":"Chemical technicians assist chemists and chemical engineers in the research, development, testing, and manufacturing of chemicals and chemical-based products. Their work involves experimental, theoretical, and practical application of chemistry and other connected physical and natural sciences. Chemical technicians\\xa0conduct chemical and physical laboratory tests to assist scientists in producing qualitative and quantitative analyses of solids, liquids, and gaseous materials for, among other purposes, research and development of new products or processes, developing quality control guidelines, and sustaining environmental standards.\\xa0According to the U.S. Department of Labor, approximately 64,770 chemical technicians work in the United States.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Chemists",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"Chemists are scientists who study the composition, changes, reactions, and transformations of matter. They may specialize in analytical, biological, inorganic, organic, or physical chemistry. They may work in laboratories, hospitals, private companies, government agencies, or colleges and universities. According to the U.S. Department of Labor, as of May 2015, there were approximately 84,720 chemists employed in the United States.",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Chief Customer Officers",
+       "salary":"$50,000 to $100,000+",
+       "job_description":"Chief customer officers, also known as CCOs or chief experience officers, attend to a company\\'s customers as the most important asset of the business. They are part of the executive or \"C\" (corporate) suite in a company. They are responsible for the total relationship with an organization\\'s customers and make sure that the company delivers a positive experience for every customer whether he or she wants information, is ordering products or services, dealing with problems, or in need of answers to questions.",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Chief Executive Officers",
+       "salary":"$75,000 to $100,000+",
+       "job_description":"The chief executive officer is the highest ranking executive in a corporation or other organization. He or she oversees company operations, develops strategies for short- and long-term growth, and works closely with other top executives to ensure that goals are met and their organization runs smoothly. Chief executive officers (CEOs) typically report to a board of directors. Approximately 248,760 CEOs are employed in the United States. At some companies, CEOs may be known as presidents or chief executives. At nonprofit organizations, the position of CEO is known as executive director.",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Chief Financial Officers",
+       "salary":"$100,000+",
+       "job_description":"Chief financial officers are responsible for the accuracy of their employer’s financial reporting and focus on issues such as compliance, budgeting, funds investment and management, and developing financial short- and long-term strategies for their organizations.",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Chief Information Officers",
+       "salary":"$75,000 to $100,000+",
+       "job_description":"Chief information officers (CIOs), also known as information systems directors, are responsible for all aspects of their company's information technology. They use their knowledge of technology and business to determine how information technology can best be used to meet company goals—especially over the long term. This may include researching, purchasing, and overseeing set-up and use of technology systems, such as intranet, Internet, and computer networks. CIOs work for a variety of employers, including businesses, government agencies, libraries, and colleges and universities.",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Chief Sustainability Officers",
+       "salary":"$75,000 to $100,000+",
+       "job_description":"The chief sustainability officer is a high-ranking executive in a corporation or other organization. Their work focuses on developing and executing strategies to help companies operate in more environmentally friendly and sustainable ways. They help develop environmental programs and supervise the programs' employees and volunteers. Their work also entails monitoring and assessing the effectiveness of sustainability programs to make them more effective and efficient. According to the Department of Labor, there are approximately 223,260 chief executives employed in the United States, including chief sustainability officers.",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Child Care Service Owners",
+       "salary":"$25,000 to $100,000",
+       "job_description":"Child care service owners provide care for infants, toddlers, and preschool-aged children. While the parents and guardians are at work, child care providers watch the children and help them develop skills through games and activities. The child care service may be part of the owner's home, or it may be a separate center composed of classrooms, play areas, and areas for infant care. The service owner hires, trains, and schedules child care workers, or teachers, to assist with large numbers of children. The owner must also manage the center's finances, assure that the center meets legal requirements and accreditation standards, and meet with prospective clients. Child care centers are in demand all across the country, as the majority of parents of young children have jobs outside the home. There are approximately\\xa047,560 directors of preschool and child care centers in the United States. According to the National Child Care Association, there are currently about 113,000 licensed child care centers in the United States.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Child Care Workers",
+       "salary":"Below $25,000 to $50,000",
+       "job_description":"Child care workers are employed by day care centers, preschools, and other child-care facilities and work with infants, toddlers, and preschool-aged children. While parents and guardians are at work, child-care providers watch the children and help them develop skills through games and activities. According to the U.S. Department of Labor, in May 2015, there were approximately 573,440\\xa0child care workers, outside of preschool teachers and teacher-assistants in the United States. According to ChildCare.us, the largest directory for child care services in the United States, there are currently about 116,541 licensed childcare centers and 132,227 home daycare providers in the country.\\xa0",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Child Life Specialists",
+       "salary":"$25,000 to $75,000",
+       "job_description":"Child life specialists work in health care settings to help infants, children, adolescents, and their families through illness or injury. One of the primary roles of the child life specialist is to ease the anxiety and stress that often accompany hospitalization, injury, or routine medical care. Child life specialists help children, adolescents, and their families maintain living patterns that are as close to normal as possible, and they try to minimize the potential trauma of hospitalization. Child life specialists do this by providing opportunities for play and relaxation, interaction with other children, and personalized attention. They also encourage family involvement, which can play a major role in helping children and adolescents cope with difficult situations. Child life specialists may help children and their families to develop coping skills and educate them about the experience that they are going through.Some hospitals refer to their child life specialists as play therapists, patient activity therapists, activity therapists, or therapeutic recreation specialists.",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Children's Librarians",
+       "salary":"$25,000 to $100,000",
+       "job_description":"Children's librarians oversee the daily operations of the children's department of public and private libraries and school libraries. They purchase books, periodicals, music and films, and other informational material, and prepare them for circulation. Children's librarians also serve as instructors and mentors to students. In addition, they conduct activities to introduce children to different types of literature. These activities include story time, reading challenges, book discussions, and outreach projects. Children’s librarians may also be called children’s services managers and youth services librarians. According to the U.S. Department of Labor, in May 2015, there were\\xa0approximately\\xa0131,550 librarians (including children's librarians) are employed in the United States and 50,210 children's librarians employed in elementary and secondary schools.",
+       "minimum_education_level":"Master's Degree"
+    },
+    {
+       "job_title":"Chimney Sweeps",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"Chimney sweeps, also known as sweeps and chimney technicians, inspect—or evaluate, as it is known in the industry—chimneys, fireplaces, stoves, and vents according to safety codes. They clean, or sweep, the chimneys and make repairs, which may involve masonry work and relining. They also educate homeowners and building maintenance crews in how to properly care for their stoves and fireplaces, as well as train apprentice chimney sweeps.\\xa0",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Chiropractors",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"Chiropractors, or doctors of chiropractic, are health care professionals who focus on musculoskeletal health problems. Through manipulation of the bones, muscles, ligaments, and tendons, they treat patient ailments, such as back or neck pain. Spinal adjustment can relieve acute back pain, widen a patient's range of motion, and improve function. These professionals emphasize health maintenance and disease prevention through exercise, maintaining posture, stress management, proper nutrition, and care of the spine and the nervous system. Approximately 28,850 chiropractors practice in the United States. Most work in solo practice; other work settings include group practices, health care clinics, and teaching institutions.Chiropractic emphasizes health maintenance, the whole person, and natural healing and is considered an alternative health care approach. At the same time, chiropractic has more of the advantages enjoyed by the medical profession than does any other alternative health care field: Chiropractic has licensure requirements, accredited training institutions, a growing scientific research base, and insurance reimbursement.",
+       "minimum_education_level":"Doctorate"
+    },
+    {
+       "job_title":"Choreographers",
+       "salary":"Below $25,000 to $100,000+",
+       "job_description":"Choreographers\\xa0create dances that use movement to tell a story or elicit a mood and then teach them to dancers. There are many types of dance—ranging from tango and tap, to ballroom and ballet, to jazz, modern dance, and non-Western dances. Approximately 7,000 choreographers are employed in the United States.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Cinematographers and Directors of Photography",
+       "salary":"Below $25,000 to $100,000",
+       "job_description":"The cinematographer, also known as the director of photography or DP, is a master of the movie camera and lighting equipment. This professional is instrumental in establishing the mood of a film by putting the narrative aspects of a script into visual form. The cinematographer is responsible for every shot's framing, lighting, color level, and exposure—elements that set the artistic tone of the film.",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Circus Performers",
+       "salary":"Below $25,000 to $100,000",
+       "job_description":"Circus performers entertain with a wide variety of unusual acts that terrify, amuse, and amaze their audiences. Circus artists appear to defy death as they swing from a trapeze or walk a tightwire high above the ground. Some perform gymnastic feats on the ground, and clowns entertain with their absurd antics. Others train and perform with animals, such as elephants and tigers. Most circus performers are able to perform a variety of circus skills. Though \"running away to join the circus\" may seem like a fun way to earn a living, in reality, it is grueling, hard work.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"City Managers",
+       "salary":"$50,000 to $100,000+",
+       "job_description":"A city manager is an administrator who coordinates the day-to-day operation of a local government. Usually an appointed position, the manager directs the administration of city government in accordance with the policies determined by the city council or other elected authority.",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Civil Engineering Technicians",
+       "salary":"$25,000 to $100,000",
+       "job_description":"Civil engineering technicians help civil engineers design, plan, and build public as well as private works to meet the community's needs. They are employed in a wide range of projects, such as highways, drainage systems, water and sewage facilities, railroads, subways, airports, dams, bridges, and tunnels. More than 70,000 civil engineering technicians are employed in the United States.",
+       "minimum_education_level":"Associate's Degree"
+    },
+    {
+       "job_title":"Civil Engineers",
+       "salary":"$50,000 to $100,000+",
+       "job_description":"Civil engineers are involved in the design and construction of the physical structures that make up our surroundings, such as roads, bridges, buildings, and harbors. Civil engineering involves theoretical knowledge applied to the practical planning of the layout of our cities, towns, and other communities. It is concerned with modifying the natural environment and building new environments to better the lifestyles of the general public. Civil engineers are also known as structural engineers. There are approximately\\xa0275,000 civil engineers in the United States.",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Civil Litigation Lawyers",
+       "salary":"$50,000 to $100,000+",
+       "job_description":"Litigation is the process of taking a case through the legal system. Civil litigation is a legal dispute involving two or more parties in which one party seeks the redress of a wrong via financial compensation, the cessation of a harmful activity, or repairs to a faulty product or structure, etc. These lawsuits involve a wide variety of areas such as personal injury, employment law, contractor claims, and medical malpractice. Civil litigation lawyers represent clients in trials, arbitrations, hearings, and mediations before federal, state, and local courts; administrative agencies; and other legal bodies.\\xa0",
+       "minimum_education_level":"Law Degree"
+    },
+    {
+       "job_title":"Cleaning Service Owners",
+       "salary":"Below $25,000 to $75,000",
+       "job_description":"Cleaning service owners go into homes, offices, and apartment buildings to clean carpets, upholstery, and drapes. With special training, they also clean air ducts and restore homes and buildings damaged by fire, flood, and other disasters. There are successful cleaning services all across the country, but those businesses devoted to disaster restoration are generally located in areas with cold seasons and inclement weather.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Client Services Managers",
+       "salary":"$25,000 to $100,000",
+       "job_description":"Client services managers, also called customer relations managers, direct the customer or client relations department of a business. They act as a liaison between businesses and customers, and answer questions, and assist customers in solving problems with company products and services. They oversee the client or customer relations department and supervise representatives.",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Clinical Applications Specialists",
+       "salary":"$25,000 to $100,000",
+       "job_description":"Clinical applications specialists train health care professionals to use new health care equipment and software. Such technology includes electro-medical equipment [e.g., patient-monitoring systems, MRI machines, diagnostic imaging equipment (including informatics equipment), and ultrasonic scanning devices], irradiation apparatuses (e.g., X-ray devices and other diagnostic imaging, as well as computed tomography equipment), practice management software, health information management software, software as a medical device (i.e., software that is used for one or more medical purposes that perform these purposes without being part of a hardware medical device), wireless medical devices, and telemedicine technology. Clinical applications specialists (CASs) are employed by health care facilities and companies that sell medical software and equipment. \\xa0 \\xa0\\xa0",
+       "minimum_education_level":"Associate's Degree"
+    },
+    {
+       "job_title":"Clinical Data Managers",
+       "salary":"$75,000 to $100,000+",
+       "job_description":"Clinical data managers test and design clinical databases for health care organizations and research centers. They process clinical data and monitor work flow processes to make sure they are in compliance with operating standards. They use a wide variety of computer software programs to accomplish their work. Strong knowledge of mathematics as well as of the information and techniques needed for diagnosing and treating medical conditions is required for clinical data management. The Department of Labor does not yet provide information specifically about the clinical data manager profession, but reports that statisticians have similar responsibilities. This is a small field: In May 2016, there were approximately 33,440 statisticians working in the United States.",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Clinical Nurse Specialists",
+       "salary":"$75,000 to $100,000+",
+       "job_description":"Clinical nurse specialists (CNSs), a classification of advanced practice nurses (APNs), are registered nurses who have completed advanced clinical nurses' educational practice requirements. Qualified to handle a wide variety of physical and mental health problems, CNSs are primarily involved in providing primary health care and psychotherapy. More than 2.6 million registered nurses, which includes clinical nurse specialists, are employed in the United States.",
+       "minimum_education_level":"Master's Degree"
+    },
+    {
+       "job_title":"Clinical Research Coordinators",
+       "salary":"$25,000 to $75,000",
+       "job_description":"Clinical research coordinators plan, manage, and/or coordinate clinical research trials. Most work in laboratory settings in clinical research facilities. They record data, maintain case report forms and drug dispensation records, and monitor project activities to make sure they comply with government and institutional policies. They also make sure patients are well cared for throughout the clinical trials. Coordinators use computers and analytical, scientific, and medical software programs to code information and track patients. This type of work requires strong knowledge of administration and management, medicine and dentistry, mathematics, and English language.",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Clowns",
+       "salary":"$25,000 to $100,000",
+       "job_description":"Clowns dress in outlandish costumes, paint their faces, and use a variety of performance skills to entertain audiences. They work in circuses, amusement parks, schools, malls, rodeos, and hospitals, as well as on stage, in films, and even on the street. Clowns are actors and comedians whose job is to make people laugh. There are an estimated 50,000 to 100,000 professional clowns worldwide. There are many more amateurs. About 95 percent of clowns work part time and supplement their incomes with other jobs.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Coal Miners",
+       "salary":"$25,000 to $75,000",
+       "job_description":"Coal miners extract coal from surface mines and underground mines. To do this, they operate complex and expensive machinery that drills, cuts, scrapes, or shovels earth and coal so that the fuel can be collected. Since coal is hard to reach, large portions of earth must be removed from the surface or dug out of mines so the coal miners can get to it. Some coal miners are explosives experts who use dynamite and other substances to remove earth and make the coal accessible.\\xa0As of 2014, approximately 75,000 workers are employed as coal miners, according to the National Mining Association.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Collection Workers",
+       "salary":"Below $25,000 to $50,000",
+       "job_description":"Collection workers—sometimes known as bill collectors, collection correspondents, or collection agents—are employed to persuade people to pay their overdue bills. Some work for collection agencies (which are hired by the business to which the money is owed), while others work for department stores, hospitals, banks, public utilities, and other businesses. Collection workers contact delinquent debtors, inform them of the delinquency, and either secure payment or arrange a new payment schedule. If all else fails, they might be forced to repossess property or turn the account over to an attorney for legal proceedings. There are approximately\\xa0318,970 bill and account collectors employed in the United States.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"College Administrators",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"College administrators coordinate and oversee programs such as admissions and financial aid in public and private colleges and universities. They frequently work with teams of people to develop and manage student services. Administrators also oversee specific academic divisions of colleges and universities. Approximately\\xa0175,000 college administrators are employed in the United States.",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"College Professors",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"College professors instruct undergraduate and graduate students in specific subjects at colleges and universities. They lecture classes, lead small seminar groups, and create and grade examinations. They also may conduct research, write for publication, and aid in administration. Approximately 1.3 million postsecondary teachers are employed in the United States.",
+       "minimum_education_level":"Master's Degree"
+    },
+    {
+       "job_title":"Color Analysts and Image Consultants",
+       "salary":"Below $25,000 to $75,000",
+       "job_description":"Color analysts assess their clients' coloring, including skin tone and hair and eye color, and teach them how to use their most flattering colors in clothing and makeup. Image consultants usually work with people in business, helping them present themselves in a professional manner.Color analysts and image consultants offer programs for individual women or men, for professional or social organizations, or for all the employees of one company. Some work with retailers, teaching salespersons about color and style and presenting in-store workshops.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Columnists",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"Columnists write opinion pieces for publication in newspapers or magazines or on news, general interest, or special interest Web sites. Some columnists work for syndicates, which are organizations that sell articles to many media at once.Columnists can be generalists who write about whatever strikes them on any topic. Most columnists focus on a specialty, such as government, politics, local issues, health, humor, sports, gossip, or other themes.Most newspapers employ local columnists or run columns from syndicates. Some syndicated columnists work out of their homes or private offices.",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Comedians",
+       "salary":"Below $25,000 to $100,000+",
+       "job_description":"Comedians are entertainers who make people laugh. They use a variety of techniques to amuse their audiences, including telling jokes, composing and singing humorous songs, wearing funny costumes, and doing impersonations. Comedians perform in nightclubs, comedy clubs, coffee houses, theaters, television shows, films, and even business functions, such as trade shows and sales meetings.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Comic Book Artists",
+       "salary":"Below $25,000 to $100,000",
+       "job_description":"Comic book artists tell stories through the graphic images they create. They team up with comic book writers, who create the characters, plots, and dialogues for the artists to illustrate. Some comic book artists write and illustrate the comic books themselves. Whereas cartoonists’ work is short form, either a single panel with a caption or several panels with some dialogue, the comic book artists’ work follows a narrative; they create images in sequence to align with a story. There are 12,240 craft and fine artists, including comic book artists, employed in the United States, according to the Department of Labor.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Comic Book Publishers",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"Comic book publishers produce and release comic books to consumers. The job entails a variety of tasks, which may include securing artists and negotiating contracts for the books, editing the material, funding the projects, printing the books, and marketing and distributing the books. Comic book publishers often work with characters and stories owned by their company or licensed from another company. Comic book publishing companies range from small, independent groups to mid-size companies such as Dynamite Entertainment, IDW Publishing, and Boom!, to the large, long-established companies like Marvel and DC Comics.\\xa0",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Comic Book Writers",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"Comic book writers create and develop characters, stories, and plots for comic books. Comic book writers may have an idea for an entirely new comic book, or they may think of stories and plots for an existing comic book series or character. As of May 2015, there are approximately\\xa043,380 writers and authors currently employed in the United States, a small percentage of which are comic book writers.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Commodities Brokers",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"Commodities brokers, also known as futures commission merchants and commodities sales agents, act as agents in carrying out purchases and sales of commodities for customers or traders. Commodities are primary goods that are either raw or partially refined. Such goods are produced by farmers, such as corn, wheat, or cattle, or mined from the earth, such as gold, copper, or silver. Brokers, who may work at a brokerage house, on the floor of a commodities exchange, or independently, are paid a fee or commission for acting as the middleman to conduct and complete the trade. Approximately 319,280\\xa0securities, commodities, and financial services sales agents (a group including commodities brokers) are employed in the United States.",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Community Health Nurses",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"Community health nurses, also known as public health nurses, provide community-based health care. They organize, promote, and deliver care to community groups in urban, rural, and remote settings. They work in community health centers in large and small cities, or they travel to remote locations to bring health care treatment and information to people living in those areas. They provide public health services and educational programs to schools, correctional facilities, homeless shelters, elderly care facilities, and maternal and well-baby clinics. Some community health nurses provide specialized care in communities where immediate physician services are not available. Community health nurses often work for a state funded or federally funded agency, or a private health provider company.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Compliance Managers",
+       "salary":"$50,000 to $100,000+",
+       "job_description":"Compliance managers make sure that companies are operating in compliance with government and industry regulations and standards. They work closely with business executives, analysts, consultants, and other specialists to develop the legal and ethical standards for companies and to communicate this information to employees. They maintain documents on compliance activities and conduct internal investigations and identify issues related to regulatory or compliance standards. Industries that are strictly regulated, such as finance and health care, employ compliance managers to ensure the organization complies with external rules as well as internal standards. There are 403,670 managers, including compliance managers, employed in the United States, according to the Department of Labor.",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Composers and Arrangers",
+       "salary":"Below $25,000 to $100,000+",
+       "job_description":"Composers create much of the music heard every day on radio and television, in theaters and concert halls, in the movie industry, on recordings and in advertising, and through any other medium of musical presentation. Composers write symphonies, concertos, and operas; scores for theater, television, and cinema; and music for musical theater, recording artists, and commercial advertising. They may combine elements of classical music with elements of popular musical styles such as rock, jazz, reggae, folk, and others. Arrangers take composers’ musical compositions and transcribe them for other instruments or voices; work them into scores for film, theater, or television; or adapt them to styles that are different from the one in which the music was written. Approximately 21,540\\xa0composers and music directors are employed in the United States, and more are self-employed or work on a freelance basis.",
+       "minimum_education_level":"High School Diploma"
+    },
+    {
+       "job_title":"Computer and Office Machine Service Technicians",
+       "salary":"Below $25,000 to $75,000",
+       "job_description":"Computer and office machine service technicians install, calibrate, maintain, troubleshoot, and repair equipment such as computers and their peripherals, office equipment, and specialized electronic equipment used in many factories, hospitals, airplanes, and numerous other businesses. Computer and office machine service technicians, including those who work on automated teller machines, hold approximately 106,100 jobs in the United States.\\xa0",
+       "minimum_education_level":"Associate's Degree"
+    },
+    {
+       "job_title":"Computer and Video Game Designers",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"Computer and video game designers, also known as game developers, create the ideas and interactivity for games. These games are played on various platforms, or media, such as video consoles and computers, digital devices (smartphones, tablets, iPads, etc.), and online. Designers generate ideas for new game concepts, including sound effects, characters, story lines, and graphics.Designers either work for companies that make the games or create the games on their own and sell their ideas and programs to companies that produce them.",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Computer Network Administrators",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"Computer network administrators, or network specialists, design, install, and support an organization's local area network (LAN), wide area network (WAN), network segment, or Internet system. They maintain network hardware and software, analyze problems, and monitor the network to ensure availability to system users. Administrators also might plan, coordinate, and implement network security measures, including firewalls. Approximately 374,480\\xa0computer network and systems administrators work in the United States.",
+       "minimum_education_level":"Bachelor's Degree"
+    },
+    {
+       "job_title":"Computer Programmers",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"Computer programmers write instructions that tell computers what to do in a computer language, or code, that the computer understands—including applications that are provided through the Internet (known as software-as-a-service). Software applications\\xa0are used to perform many tasks, such as searching for information, editing photographs, writing text, playing games, or making purchases. There are approximately 289,420\\xa0computer programmers employed in the United States.",
+       "minimum_education_level":"Associate's Degree"
+    },
+    {
+       "job_title":"Computer Support Service Owners",
+       "salary":"$25,000 to $100,000+",
+       "job_description":"The owners of computer support services help businesses and individuals install and maintain computer hardware and software. They offer advice on what computers to purchase; they teach how to operate computers or software programs; and they assist with computer problems as they arise. There are approximately 770,000 computer support specialists in the industry, including technicians and entrepreneurs. Computer consultants either work out of their homes, or they rent office space. Though some of their assistance is offered over the phone or online, much of their work is performed on-site.",
+       "minimum_education_level":"Associate's Degree"
     }
  ]}

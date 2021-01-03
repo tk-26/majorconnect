@@ -27,7 +27,7 @@ for item in ulProfessions:
 salaries = []
 job_descriptions = []
 minimum_edu_levels = []
-for link in link_list[:100]:
+for link in link_list:
 	individual_page = requests.get(link)
 	soup_ip = BeautifulSoup(individual_page.content, 'html.parser')
 	#Salary info
