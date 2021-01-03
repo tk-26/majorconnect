@@ -50,7 +50,7 @@ export default {
                 { title: 'Major' },
                 { title: 'Salary' },
                 { title: 'Career' },
-                { title: 'Skill' },
+                { title: 'Skill' }
             ]
         };
     }

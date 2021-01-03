@@ -5,7 +5,7 @@
         <v-data-iterator
             :items="job_titles"
             item-key="job_title"
-            :items-per-page="4"
+            :items-per-page="8"
             :single-expand="singleExpand"
         >
             <template v-slot:default="{ items, isExpanded, expand}">
@@ -43,6 +43,12 @@
                                     <v-list-item-content class="font-weight-medium">Job description:</v-list-item-content>
                                     <v-list-item-content class="font-weight-light">
                                         {{item.job_description}}
+                                    </v-list-item-content>
+                                </v-list-item>
+                                <v-list-item>
+                                    <v-list-item-content class="font-weight-medium">Minimum education level:</v-list-item-content>
+                                    <v-list-item-content class="font-weight-light">
+                                        {{item.minimum_education_level}}
                                     </v-list-item-content>
                                 </v-list-item>
                             </v-list>
