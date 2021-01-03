@@ -1,18 +1,19 @@
 <template>
-  <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <HelloWorld msg="Welcome to Your Vue.js App" />
+  <div>
+    <br/>
+    <h2 class="font-weight-medium" align="center">MajorConnect</h2>
+    <h3 class="font-weight-light" align="center">
+      Find the right knowledge before choosing your major.
+      <br/>
+      We only use the latest job data, so you can see what's current now.
+    </h3>
   </div>
 </template>
 
 <script>
 // @ is an alias to /src
-import HelloWorld from "@/components/HelloWorld.vue";
 
 export default {
   name: "Home",
-  components: {
-    HelloWorld
-  }
 };
 </script>
