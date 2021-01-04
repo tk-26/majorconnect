@@ -1,0 +1,94 @@
+{ "majors": [
+    {
+       "major":"Nursing",
+       "description":"Nurses care for ill or injured patients and guide them through the recovery process. Nursing students learn skills in cultural awareness, critical thinking, time management and communication. Nursing majors work in the healthcare industry in hospitals, physicians' offices and nursing care facilities. According to the United States Bureau of Labor Statistics, jobs for registered nurses are projected to grow by 12% between 2018 and 2028, which is much faster than average. The primary reason for this is the increasing demand for healthcare services for older populations."
+    },
+    {
+       "major":"Culinary arts",
+       "description":"Culinary artists are food and beverage professionals who are trained in cooking. In school, they learn valuable skills such as decision making, management and organization. Culinary professionals work in the food industry and often in the kitchens of restaurants, bars, hotels and fast-food chains. Jobs for culinary arts professionals are projected to grow by 11% between 2018 and 2028, which is much faster than average. According to the U.S. Bureau of Labor Statistics, the primary reason for this is the number of employees leaving the profession."
+    },
+    {
+       "major":"Computer science",
+       "description":"Computer scientists are computer experts who specialize in the transmission of and interaction with data. They work in the technology industry in a wide variety of areas such as offices, government agencies and research facilities. According to the Bureau of Labor Statistics, jobs for computer science majors are projected to grow from 2018 to 2028 at a rate of 21%. The reasons for this growth "
+    },
+    {
+       "major":"Business administration",
+       "description":"Business administrators hold managerial positions in business facilities that manage all levels of the organization. They primarily work in office spaces and, according to the Bureau of Labor Statistics, jobs for business administration majors will grow by 6% between 2018 and 2028. The reasons for this growth vary by industry, as all sectors require some form of management."
+    },
+    {
+       "major":"Accounting",
+       "description":"Accountants measure and disclose information regarding an organization's finances. Most accountants either work in offices or in their client's workplaces. Others work remotely from their home. Jobs for accounting majors have a projected 6% growth rate from 2018 to 2028. According to the Bureau of Labor Statistics, the primary reason for this growth is globalization and growing economies."
+    },
+    {
+       "major":"Physical therapy",
+       "description":"Physical therapists teach their patients how to manage their health conditions for long-term benefits. They often work in private offices, hospitals and nursing homes. According to the Bureau of Labor Statistics, physical therapy jobs are growing fast (at a rate of 22%) due to the increased demand of a large aging population."
+    },
+    {
+       "major":"Medical assisting",
+       "description":"Medical assistants support physicians and other healthcare professionals in a clinical setting by administering medications, speaking with patients and aiding in other supplementary tasks. They most often work in private practices, but they also have positions in hospitals and other care facilities as well. Between 2018 and 2028, the growth rate for jobs in this area is projected to increase by 23%. According to the Bureau of Labor Statistics, this is primarily due to a large, aging population that needs these services."
+    },
+    {
+       "major":"Mathematics and statistics",
+       "description":"Mathematicians and statisticians analyze data and interpret solutions to problems. They work in a variety of industries, from astronomy to academia, and they work in research laboratories and universities. Between 2018 and 2028, jobs for mathematicians and statisticians are expected to grow by 30%. According to the Bureau of Labor Statistics, this growth is due to the widespread use of statistical analysis to make informed business and financial decisions."
+    },
+    {
+       "major":"Information science",
+       "description":"Information scientists manage the supply and distribution of information within an organization. Most information scientists work for government agencies, while others work in research laboratories, universities and software companies. Jobs within this area are projected to grow by 16% between 2018 and 2028. According to the Bureau of Labor Statistics, growth is due to the increased need for innovative technologies in almost every sector."
+    },
+    {
+       "major":"Finance",
+       "description":"Finance majors work in corporate finance, bond brokering, investment banking and more. Jobs in finance are most often found in offices and have a projected growth of 6% between 2018 and 2028. According to the Bureau of Labor Statistics, growth in this sector is due to an increase in global economic activity, such as in growing businesses and industries."
+    },
+    {
+       "major":"Psychology",
+       "description":"Psychologists work with clients or patients to understand their thoughts, emotions and behaviors and provide them with coping mechanisms. They often work in private practices or in hospitals and other mental health facilities. Others teach at colleges and universities. According to the Bureau of Labor Statistics, between 2018 and 2028, psychology jobs are expected to grow by 14%. Growth varies by occupation, but it primarily relates to a growing demand for psychological resources in schools and businesses."
+    },
+    {
+       "major":"Marketing",
+       "description":"Marketers develop and execute strategies to promote products and services and maximize profits. They most often work in offices and small agencies. Jobs in this area are expected to grow at a rate of 20% between 2018 and 2028. According to the Bureau of Labor Statistics, this growth is primarily due to the increased use of data and market research throughout most industries as well as in emerging areas such as digital marketing."
+    },
+    {
+       "major":"Civil engineering",
+       "description":"Civil engineers design, maintain and adapt modern infrastructure in cities across the country. They primarily work in offices but also visit outdoor construction sites as needed. Jobs in this area are projected to grow by 6% between 2018 and 2028. According to the Bureau of Labor Statistics, this growth is due to an increased need for road repair and construction."
+    },
+    {
+       "major":"Instructional design",
+       "description":"Instructional designers design and redesign classes and create training materials related to coursework. These designers find employment in a variety of industries and work in educational institutions, government agencies and military services. Between 2018 and 2028, jobs in this area are projected to grow by 9%, according to the Bureau of Labor Statistics. Growth in many industries is on the rise due to an increased need for training in new media and technology in the workplace."
+    },
+    {
+       "major":"Systems engineering",
+       "description":"Systems engineers monitor the performance of systems through all stages of operations for solving technical problems. They primarily work in offices and manufacturing plants. Jobs in this area are projected to grow by 5% between 2018 and 2028. Growth is due in part to the need for the transportation of goods on a global scale and how manufacturers structure their organizations to meet demand."
+    },
+    {
+       "major":"Economics",
+       "description":"Economists conduct research, analyze data and monitor economic trends. They work in office settings for research firms and other organizations. Economic jobs are projected to grow at a rate of 8% between 2018 and 2028, due to the wide range of businesses that need economic analysis and quantitative methodology to make the best financial decisions."
+    },
+    {
+       "major":"Public relations",
+       "description":"Individuals who work in public relations protect and improve corporate reputations in the media. They work in office spaces in multiple industries developing methods for building consumer trust. Jobs in this area are expected to grow by 6% between 2018 and 2028. According to the Bureau of Labor Statistics, growth is due to the increased need for reputation management and better business-to-consumer communications."
+    },
+    {
+       "major":"Education",
+       "description":"Educators teach students, prepare lesson plans and grade coursework. They work within educational institutions from elementary school to college. Jobs for postsecondary teachers are projected to grow by 11% between 2018 and 2028, due to the increased number of students enrolling in postsecondary institutions."
+    },
+    {
+       "major":"Criminal justice",
+       "description":"Depending on their area of expertise, criminal justice majors do their part in both fighting and preventing crime. They primarily work for police departments and government organizations. Between 2018 and 2028, the Bureau of Labor Statistics projects a 5% growth rate due to the increased demand for more law officers and similar personnel."
+    },
+    {
+       "major":"Sports science",
+       "description":"Sports scientists assist people in achieving their best physical performance levels by applying methodologies from medicine and biomechanics. The Bureau of Labor Statistics explains that sports science jobs are projected to grow by 13% between 2018 and 2028, stemming from the increased need for health and wellness initiatives in businesses."
+    },
+    {
+       "major":"Biology",
+       "description":"Biologists study life and often specialize in specific organisms and their relationship to the environment. They often work in educational settings but also work for government agencies and laboratories. Jobs in this area are projected to grow 7% between 2018 and 2028. This growth is due to the wide range of industries that need experts in this field, such as biotechnology and synthetic biology."
+    },
+    {
+       "major":"Chemistry",
+       "description":"Chemists study how chemicals affect each other and their surrounding environments. They often work in educational settings and in laboratories and offices. Jobs in this area are expected to grow at a rate of 4% between 2018 and 2028, due to an increased need for pharmaceutical manufacturing and nanotechnology."
+    },
+    {
+       "major":"Agricultural science",
+       "description":"Agricultural scientists research new methods of improving animal or soil health, thereby improving food quality. They work in laboratories for food production companies as well as on farms. Jobs in this area are projected to grow at a 7% rate between 2018 and 2028 due to an increased need for agriculture production and agricultural research."
+    }
+ ] }
